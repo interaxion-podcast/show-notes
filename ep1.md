@@ -54,4 +54,4 @@
 - 通話: [Zoom](https://zoom.us/)
 - 録音: [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - 編集: [Audacity](https://www.audacityteam.org/)
-- チャプターつけ: [RuiさんのPythonスクリプト]([音の良いポッドキャストを録音するために ― Turing Complete FMの収録テクニック｜Rui Ueyama｜note](https://note.com/ruiu/n/n1061d541355f))
+- チャプターつけ: [RuiさんのPythonスクリプト](https://note.com/ruiu/n/n1061d541355f)

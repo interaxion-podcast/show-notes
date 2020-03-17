@@ -1,4 +1,4 @@
-# Ep. 1 (TBD)
+# Ep. 1 TajiSetsu can surpass KonMari
 
 ## 0:00 近況
 
@@ -36,7 +36,8 @@
 ## 28:58 ミラーレスカメラ
 
 - [Canon ミラーレス一眼カメラ EOS Kiss M(ブラック)・ダブルズームキット ](https://amzn.to/38UAweO)
-- [今、振り返ろう！Nikon1(ニコワン)のことを中古カメラコーナーで語ってみた。 キタムラ公式ブログ｜カメラのキタムラ](http://www.kitamura.jp/photo/blog/1201107_7673.html)
+- [Nikon 1よ永久に…そして（やってくるだろう）新ミラーレスへの期待 | ギズモード・ジャパン](https://www.gizmodo.jp/2018/07/nikon-1-j1.html)
+- [ニコン、本田翼さんを起用した「Nikon 1 J5」スペシャルムービーを公開 | マイナビニュース](https://news.mynavi.jp/article/20150403-a244/)
 
 ## 34:04 最近読んだ本など
 
@@ -58,3 +59,7 @@
 - 編集: [Audacity](https://www.audacityteam.org/)
 - チャプターつけ: [RuiさんのPythonスクリプト](https://note.com/ruiu/n/n1061d541355f)
 - ヘッドセット (oka): [サンワサプライ USBヘッドセット/ヘッドホン ホワイト MMZ-HSUSB10W](https://amzn.to/2WgpCNY)
+
+## Editorial
+
+- <https://scrapbox.io/interaxion/ep1>

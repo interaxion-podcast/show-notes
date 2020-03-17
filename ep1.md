@@ -4,6 +4,7 @@
 
 ## 1:27 Podcast の名前
 
+- [アクシオン - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%AA%E3%83%B3)
 - [Reaxion Media Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9yZWF4aW9uLm1lZGlhL2ZlZWQv)
 - [Anchor](https://anchor.fm/)
 - [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
@@ -35,6 +36,7 @@
 ## 28:58 ミラーレスカメラ
 
 - [Canon ミラーレス一眼カメラ EOS Kiss M(ブラック)・ダブルズームキット ](https://amzn.to/38UAweO)
+- [今、振り返ろう！Nikon1(ニコワン)のことを中古カメラコーナーで語ってみた。 キタムラ公式ブログ｜カメラのキタムラ](http://www.kitamura.jp/photo/blog/1201107_7673.html)
 
 ## 34:04 最近読んだ本など
 
@@ -46,7 +48,7 @@
 
 ## 44:36 旅行
 
-- [ウラジオストク旅行の豆知識](https://buhin-blog.blogspot.com/2019/10/blog-post.html)
+- [ウラジオストク旅行の豆知識 | ぶひんブログ](https://buhin-blog.blogspot.com/2019/10/blog-post.html)
 - [週末フィンランド～ちょっと疲れたら一番近いヨーロッパへ](https://amzn.to/2IManEt)
 
 ## 収録機材など
@@ -55,3 +57,4 @@
 - 録音: [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - 編集: [Audacity](https://www.audacityteam.org/)
 - チャプターつけ: [RuiさんのPythonスクリプト](https://note.com/ruiu/n/n1061d541355f)
+- ヘッドセット (oka): [サンワサプライ USBヘッドセット/ヘッドホン ホワイト MMZ-HSUSB10W](https://amzn.to/2WgpCNY)

@@ -14,7 +14,7 @@ w/ [oka](https://twitter.com/nowohyeah), [部品](https://twitter.com/tjmlab)
 
 ## 6:26 転職
 
-- [カソクキセンパイ@ポスドクさん (@AccSempai) / Twitter](https://twitter.com/AccSempai)
+- [カソクキセンパイ / Twitter](https://twitter.com/AccSempai)
 
 ## 8:34 Twitter でプチバズった話
 

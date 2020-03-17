@@ -1,5 +1,7 @@
 # Ep. 1 TajiSetsu can surpass KonMari
 
+w/ [oka](https://twitter.com/nowohyeah), [部品](https://twitter.com/tjmlab)
+
 ## 0:00 近況
 
 ## 1:27 Podcast の名前
@@ -35,7 +37,7 @@
 
 ## 28:58 ミラーレスカメラ
 
-- [Canon ミラーレス一眼カメラ EOS Kiss M(ブラック)・ダブルズームキット ](https://amzn.to/38UAweO)
+- [Canon ミラーレス一眼カメラ EOS Kiss M(ブラック)・ダブルズームキット](https://amzn.to/38UAweO)
 - [Nikon 1よ永久に…そして（やってくるだろう）新ミラーレスへの期待 | ギズモード・ジャパン](https://www.gizmodo.jp/2018/07/nikon-1-j1.html)
 - [ニコン、本田翼さんを起用した「Nikon 1 J5」スペシャルムービーを公開 | マイナビニュース](https://news.mynavi.jp/article/20150403-a244/)
 

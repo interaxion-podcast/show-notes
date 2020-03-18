@@ -9,7 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: maxheld83/pandoc@v2
-      - name: Convert md to html
         with:
             args: "-f markdown -t html md/*.md -o html/out.html"
       - name: Commit files

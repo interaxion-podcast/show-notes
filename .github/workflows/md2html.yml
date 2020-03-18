@@ -11,7 +11,7 @@ jobs:
       - uses: maxheld83/pandoc@v2
         with:
             entrypoint: /bin/bash
-            args: "for file in $(ls md/*.md); do pandoc -f markdown -t html $file -o html/$file.html; done"
+            args: "for num in {1}; do pandoc -f markdown -t html md/ep${num}.md -o html/ep${num}.html; done"
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

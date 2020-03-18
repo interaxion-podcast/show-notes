@@ -11,7 +11,7 @@ jobs:
       - uses: maxheld83/pandoc@v2
       - name: Convert md to html
         run: |
-          pandoc -f markdown -t html md/ep1.md -o html/ep1.html
+          pandoc -f markdown -t html md/*.md -o html/out.html
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

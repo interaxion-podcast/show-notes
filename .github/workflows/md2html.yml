@@ -9,8 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: maxheld83/pandoc@v2
-        with:
-          args: "-f markdown -t html md/ep1.md -o html/ep1.html"
+      - name: Convert md to html
+        run: |
+          pandoc -f markdown -t html md/ep1.md -o html/ep1.html
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

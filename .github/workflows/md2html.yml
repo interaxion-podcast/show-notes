@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
-      - uses: interaxion/show-notes
+      - uses: interaxion-podcast/show-notes
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

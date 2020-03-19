@@ -1,8 +1,7 @@
 # コードを実行するコンテナイメージ
-FROM maxheld83/pandoc@v2
+FROM pandoc/latex:2.6
 
 # アクションのリポジトリからコードファイルをファイルシステムパスへコピー
-`/` of the container
 COPY entrypoint.sh /entrypoint.sh
 
 # dockerコンテナが起動する際に実行されるコードファイル (`entrypoint.sh`)

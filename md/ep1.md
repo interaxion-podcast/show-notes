@@ -44,6 +44,7 @@ w/ [oka](https://twitter.com/nowohyeah), [部品](https://twitter.com/tjmlab)
 ## 34:04 最近読んだ本など
 
 - [みずほ銀行システム統合、苦闘の19年史 史上最大のITプロジェクト「3度目の正直」](https://amzn.to/38Tnoqe)
+- [春のハヤカワ電子書籍祭(4/13まで)](https://amzn.to/3a5w0f5)
 - [なめらかな世界とその敵](https://amzn.to/39R2eud)
 - [ハーモニー〔新版〕 (ハヤカワ文庫JA)](https://amzn.to/2U67Udk)
 - [ハーモニー(1) (角川コミックス・エース)](https://amzn.to/2Qj0iTw)

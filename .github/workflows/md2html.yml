@@ -1,6 +1,6 @@
 name: md2html
 
-on: push
+on: [push]
 
 jobs:
   convert_via_pandoc:
@@ -8,16 +8,13 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
-      - uses: maxheld83/pandoc@v2
-        with:
-            entrypoint: /bin/bash
-            args: "for num in {1}; do pandoc -f markdown -t html md/ep${num}.md -o html/ep${num}.html; done"
+      - uses: ./
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add html/ep1.html
-          git commit -m "create html"
+          git add html/*.html
+          git commit -m "update html"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

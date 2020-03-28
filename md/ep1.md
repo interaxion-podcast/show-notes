@@ -37,23 +37,23 @@ w/ [oka](https://twitter.com/nowohyeah), [部品](https://twitter.com/tjmlab)
 
 ## 28:58 ミラーレスカメラ
 
-- [Canon ミラーレス一眼カメラ EOS Kiss M(ブラック)・ダブルズームキット](https://amzn.to/38UAweO)
+- [Canon ミラーレス一眼カメラ EOS Kiss M(ブラック)・ダブルズームキット](https://amzn.to/3dL9Yk2)
 - [Nikon 1よ永久に…そして（やってくるだろう）新ミラーレスへの期待 | ギズモード・ジャパン](https://www.gizmodo.jp/2018/07/nikon-1-j1.html)
 - [ニコン、本田翼さんを起用した「Nikon 1 J5」スペシャルムービーを公開 | マイナビニュース](https://news.mynavi.jp/article/20150403-a244/)
 
 ## 34:04 最近読んだ本など
 
-- [みずほ銀行システム統合、苦闘の19年史 史上最大のITプロジェクト「3度目の正直」](https://amzn.to/38Tnoqe)
-- [春のハヤカワ電子書籍祭(4/13まで)](https://amzn.to/3a5w0f5)
-- [なめらかな世界とその敵](https://amzn.to/39R2eud)
-- [ハーモニー〔新版〕 (ハヤカワ文庫JA)](https://amzn.to/2U67Udk)
-- [ハーモニー(1) (角川コミックス・エース)](https://amzn.to/2Qj0iTw)
-- [宇宙と宇宙をつなぐ数学](https://amzn.to/2IK8uZ3)
+- [みずほ銀行システム統合、苦闘の19年史 史上最大のITプロジェクト「3度目の正直」](https://amzn.to/2wAnHJP)
+- [春のハヤカワ電子書籍祭(4/13まで)](https://amzn.to/33QXG53)
+- [なめらかな世界とその敵](https://amzn.to/2WNMi8n)
+- [ハーモニー (ハヤカワ文庫JA)](https://amzn.to/2wzDubO)
+- [ハーモニー(1) (角川コミックス・エース)](https://amzn.to/3dGWyWj)
+- [宇宙と宇宙をつなぐ数学 IUT理論の衝撃](https://amzn.to/2WWqXdf)
 
 ## 44:36 旅行
 
 - [ウラジオストク旅行の豆知識 | ぶひんブログ](https://buhin-blog.blogspot.com/2019/10/blog-post.html)
-- [週末フィンランド～ちょっと疲れたら一番近いヨーロッパへ](https://amzn.to/2IManEt)
+- [週末フィンランド～ちょっと疲れたら一番近いヨーロッパへ](https://amzn.to/2UGQXXg)
 
 ## 収録機材など
 
@@ -61,7 +61,7 @@ w/ [oka](https://twitter.com/nowohyeah), [部品](https://twitter.com/tjmlab)
 - 録音: [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - 編集: [Audacity](https://www.audacityteam.org/)
 - チャプターつけ: [RuiさんのPythonスクリプト](https://note.com/ruiu/n/n1061d541355f)
-- ヘッドセット (oka): [サンワサプライ USBヘッドセット/ヘッドホン ホワイト MMZ-HSUSB10W](https://amzn.to/2WgpCNY)
+- ヘッドセット (oka): [サンワサプライ USBヘッドセット/ヘッドホン ホワイト MMZ-HSUSB10W](https://amzn.to/2xreWBH)
 
 ## Editorial
 

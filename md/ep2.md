@@ -50,6 +50,9 @@ w/ [oka](https://twitter.com/nowohyeah), [しょーた](https://twitter.com/shot
 - [CERN updates its Open Hardware Licence | CERN](https://home.cern/news/news/knowledge-sharing/cern-updates-its-open-hardware-licence)
   - [CERN Open Hardware Licence - Wikipedia](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence)
   - [Welcome · Open Hardware Repository](https://ohwr.org/welcome)
+  - ※このエピソードを収録後に CERN の LHCb コラボレーションが人工呼吸器を OHL で公開というニュースがありました。
+    - [CERN establishes task force to contribute to global fight against COVID-19 | CERN](https://home.cern/news/news/cern/cern-establishes-task-force-contribute-global-fight-against-covid-19)
+    - [[2004.00534] The HEV Ventilator Proposal](https://arxiv.org/abs/2004.00534)
 - [宇宙と宇宙をつなぐ数学　IUT理論の衝撃](https://amzn.to/2xKYBId)
 - [Nobel laureate and Princeton physicist Philip Anderson dies at age 96](https://www.princeton.edu/news/2020/03/30/nobel-laureate-and-princeton-physicist-philip-anderson-dies-age-96)
   - [More Is Different | Science](https://science.sciencemag.org/content/177/4047/393)

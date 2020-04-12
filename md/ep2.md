@@ -7,13 +7,13 @@ w/ [oka](https://twitter.com/nowohyeah), [しょーた](https://twitter.com/shot
 ## 4:43 広報のおしごと
 
 - [広報室 | KEK](https://www.kek.jp/ja/PublicRelations/)
-  - [KEKキャラバン | 広報室 | KEK](https://www.kek.jp/ja/PublicRelations/Caravan/)
-  - [KEKサイエンスカフェ | ニュースルーム | KEK](https://www.kek.jp/ja/newsroom/sciencecafe/)
+  - [KEKキャラバン](https://www.kek.jp/ja/PublicRelations/Caravan/)
+  - [KEKサイエンスカフェ](https://www.kek.jp/ja/newsroom/sciencecafe/)
 
 ## 10:56 Tsukuba Mini Maker Faire
 
-- [Tsukuba Mini Maker Faire 2020 – 2020年2月15日(土)・16日(日) つくばカピオ](https://tmmf.jp/2020)
-- [Telelele｜テレレレ | ELECTRONICOS FANTASTICOS! │ エレクトロニコス・ファンタスティコス！](https://www.electronicosfantasticos.com/works/telelele/)
+- [Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020)
+- [Telelele｜テレレレ](https://www.electronicosfantasticos.com/works/telelele/)
 - [全自動ルービックキューブ](https://tmmf.jp/2020/?portfolio=%e8%95%aa%e6%9c%a8%e3%80%80%e5%ad%9d)
 - [VR消防体験 – 炎舞 –](https://tmmf.jp/2020/?portfolio=cyberspacelab)
 - [「粒子加速器」を自作した猛者現る - ITmedia NEWS](https://www.itmedia.co.jp/news/articles/1908/09/news063.html)
@@ -36,7 +36,7 @@ w/ [oka](https://twitter.com/nowohyeah), [しょーた](https://twitter.com/shot
 - [常設展示：コミュニケーションプラザ | 広報室 | KEK](https://www.kek.jp/ja/PublicRelations/CommunicationPlaza/)
 - [【#休校中特別授業】中学生向け素粒子入門 - YouTube](https://youtu.be/_u48I195FzI)
 - [【#休校中特別授業】中学生向けニュートリノ入門講座 - YouTube](https://youtu.be/coVK6Ghxmfw)
-- [Phys. Rev. Lett. 121, 171802 (2018) - Search for CP Violation in Neutrino and Antineutrino Oscillations by the T2K Experiment with 2.2×10^21 Protons on Target](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.171802)
+- [Phys. Rev. Lett. 121, 171802 (2018) - Search for CP Violation in Neutrino and Antineutrino Oscillations by the T2K](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.171802)
 
 ## 42:28 前回の補足 (KAGRA)
 
@@ -63,20 +63,20 @@ w/ [oka](https://twitter.com/nowohyeah), [しょーた](https://twitter.com/shot
 ## 1:02:57 COVID-19関連の暗くない話題
 
 - [ボランティア元年 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E5%85%83%E5%B9%B4)
-- [tokyo-metropolitan-gov/covid19: 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19)
+- [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 - [COVID-19 Open Research Dataset Challenge (CORD-19) | Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
-- [新型コロナ解析で分散処理プロジェクト「Folding@home」が1EFLOPS超え ～世界中のPCパワーが結集、スパコン上位100システムの合計値より高速に - PC Watch](https://pc.watch.impress.co.jp/docs/news/1243230.html)
+- [新型コロナ解析で分散処理プロジェクト「Folding@home」が1EFLOPS超え](https://pc.watch.impress.co.jp/docs/news/1243230.html)
 - [CRAYFIS: The app that turns your phone into a cosmic ray detector.](https://crayfis.io/)
 - [カミナリ雲からの謎のガンマ線ビームを追え！ | academist (アカデミスト)](https://academist-cf.com/projects/?id=16)
 - [Thundercloud Project](https://thdr.info/)
 
 ### 1:17:53 リモート授業・講義
 
-- [ヨビノリたくみ😬さんはTwitterを使っています 「各大学で検討されている4月からのリモート授業について、自分の意見をまとめておきます](https://twitter.com/Yobinori/status/1242328280595755009)
-- [KEKサマチャレOBOG会さんはTwitterを使っています 「サマーチャレンジ、開催中です！ 今夜はキャリアビルディングがあります！OBOG会の推薦として、ヨビノリたくみさんも来ています！](https://twitter.com/OBOG68771106/status/1164837876330160129)
+- [ヨビノリたくみ😬さんはTwitterを使っています](https://twitter.com/Yobinori/status/1242328280595755009)
+- [KEKサマチャレOBOG会さんはTwitterを使っています](https://twitter.com/OBOG68771106/status/1164837876330160129)
 - [ASCII.jp：政府が小中学生にモバイルルーター配布、でもPCやタブレットは？](https://ascii.jp/elem/000/004/008/4008195/)
 - [携帯3社が学生通信費一部無償に　新型コロナ　オンライン授業増加で - 毎日新聞](https://mainichi.jp/articles/20200403/k00/00m/020/185000c)
-- [Hal TasakiさんはTwitterを使っています 「少なからぬ大学生がスマホでネットにアクセスすることを考えるとビデオによる講義の配信は不適切だと結論した。](https://twitter.com/Hal_Tasaki/status/1242296178055630848)
+- [Hal TasakiさんはTwitterを使っています](https://twitter.com/Hal_Tasaki/status/1242296178055630848)
 - [Remote Lecture (test)](https://www.gakushuin.ac.jp/~881791/RLtest/)
 
 ## 収録機材など

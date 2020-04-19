@@ -37,6 +37,7 @@ w/ [oka](https://twitter.com/nowohyeah), [しょーた](https://twitter.com/shot
 - [【#休校中特別授業】中学生向け素粒子入門 - YouTube](https://youtu.be/_u48I195FzI)
 - [【#休校中特別授業】中学生向けニュートリノ入門講座 - YouTube](https://youtu.be/coVK6Ghxmfw)
 - [Phys. Rev. Lett. 121, 171802 (2018) - Search for CP Violation in Neutrino and Antineutrino Oscillations by the T2K](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.171802)
+- ※収録後、[アップデートされました！](https://twitter.com/nowohyeah/status/1250445159713501184)
 
 ## 42:28 前回の補足 (KAGRA)
 

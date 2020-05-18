@@ -18,6 +18,6 @@ do
     title=$(cat $md | sed -n --regex 's/.*[Ee]p\.[\s ][0-9+][\s ](.*)/\1/p')
     echo "title: $title" >> $yml
     echo "topics:" >> $yml
-    cat $md | sed -n --regex 's/(#+)\s([0-9:]+)\s(.+)/\3(\2\)/gp' | awk '{printf "    - %s\n", $1}'>> $yml
+    cat $md | sed -n --regex 's/(#+)\s([0-9:]+)\s(.+)/\3(\2\)/gp' | awk '{printf "    - %s\n", $0}'>> $yml
     echo "---" >> $yml
 done

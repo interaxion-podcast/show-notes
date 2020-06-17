@@ -1,5 +1,3 @@
-
-
 # Ep. 4 Virtually-self-incarnated Postdoc
 
 [西九条りん](https://twitter.com/poecilorhyncha)さんとボイチェン、原子核、アニメ、アメリカ南部生活などについて話しました。

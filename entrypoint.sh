@@ -2,7 +2,8 @@
 
 for md in $(ls md/*.md); do
     num=$(echo $md | sed 's/.*ep\(.*\).md/\1/g')
-    pandoc -f markdown-auto_identifiers -t html md/ep$num.md -o html/ep$num.html
+    pandoc -f markdown-auto_identifiers -t html md/ep$num.md -o tmp.html
+    tr -d '\n'  < tmp.html | sed 's/<\/li>//g' > html/ep$num.html
 done
 
 ## Create YAML for adding chapters in MP3.

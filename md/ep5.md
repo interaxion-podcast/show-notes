@@ -44,7 +44,7 @@
 - [Yahoo!映画](https://movies.yahoo.co.jp)
 - ※Audrey Tangも『メッセージ』好きだそうです[台湾の“IQが高すぎるIT担当大臣”にインタビュー：オードリー・タン（唐鳳）が見つめる社会](https://interaxion.page.link/89eQ)
 
-## ニュース
+## 1:02:46 ニュース
 
 - [新しい周期表を考案 －原子核の周期表「ニュークリタッチ」－ — 京都大学](https://interaxion.page.link/Rdse)
 - [魔法数 - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=18191)

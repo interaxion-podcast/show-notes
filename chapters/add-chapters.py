@@ -57,7 +57,7 @@ ep = get_episode()
 tag = id3.ID3()
 tag.add(id3.TALB(text=[u"Interaxion Podcast"]))
 tag.add(id3.TPE1(text=[u"Interaxion"]))
-tag.add(id3.TIT2(encoding=id3.Encoding.UTF8, text=[ep['title']]))
+tag.add(id3.TIT2(encoding=id3.Encoding.UTF8, text=[str(ep['episode'])+': '+ep['title']]))
 
 # Add artwork
 imagedata = open('cover_art.jpg', 'rb').read()

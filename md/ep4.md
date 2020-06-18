@@ -4,11 +4,11 @@
 
 ## 0:00 ボイチェンテスト
 
-- [Twitter SupportさんはTwitterを使っています 「We’re having some trouble delivering DMs right now. 」 / Twitter](https://twitter.com/TwitterSupport/status/1255285160314056706) 
+- [Twitter Support 「We’re having some trouble delivering DMs right now. 」 / Twitter](https://twitter.com/TwitterSupport/status/1255285160314056706) 
 
 ## 2:00 バーチャル美少女セルフ受肉自作ボイチェンポスドクアイカツおじさん西九条りん
 
-- [バ美肉 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%90%E7%BE%8E%E8%82%89)
+- [バ美肉 - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=3904557)
 - [恋声](http://koigoemoe.g2.xrea.com/koigoe/koigoe.html)
 - [【バ美肉】自作ボイチェンのノイズ落とし【西九条りん】 - YouTube](https://youtu.be/0lbXT5kohr0)
 - [Live2D](https://www.live2d.com/)
@@ -17,9 +17,9 @@
 ## 17:14 引っ越し
 
 - ※「マイナンバーカード持ってると転出届が要らない」は誤りでした。（少し簡略化できますが、必要です。）
-- [ノックスビル (テネシー州) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%93%E3%83%AB_(%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E5%B7%9E))
+- [ノックスビル (テネシー州) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=180475)
 - [【Zoom】遠隔授業向け クラウドビデオ会議サービス「Zoom」 ■学校への提供 ■無料（2020年4月30日まで） | 未来の教室 ～learning innovation～ (国立国会図書館によるウェブアーカイブ)](https://warp.da.ndl.go.jp/info:ndljp/pid/11473025/www.learning-innovation.go.jp/covid_19/zoom)
-- [東部夏時間 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%83%A8%E5%A4%8F%E6%99%82%E9%96%93)
+- [東部夏時間 - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=538832)
 
 ## 26:41 学振 DC から PD になる制度が良かった話
 
@@ -65,13 +65,13 @@
 
 ## 1:21:44 旅行など
 
-- [アラバマ (戦艦) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%90%E3%83%9E_(%E6%88%A6%E8%89%A6))
+- [アラバマ (戦艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=262738)
 - [ペンサコーラ (重巡洋艦) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B5%E3%82%B3%E3%83%BC%E3%83%A9_(%E9%87%8D%E5%B7%A1%E6%B4%8B%E8%89%A6))
-- [ノースカロライナ (戦艦) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A_(%E6%88%A6%E8%89%A6))
+- [ノースカロライナ (戦艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=7035)
 - [独ビールの祭典「オクトーバーフェスト」 コロナで今年は中止　写真5枚　国際ニュース：AFPBB News](https://www.afpbb.com/articles/-/3279648)
 - [イギリスで38.1度、史上2番目の暑さ　交通混乱 - BBCニュース](https://www.bbc.com/japanese/49123455)
 - [ヴィッカース - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B9)
 - [三笠 (戦艦) - Wikipedia](https://ja.wikipedia.org/wiki/%E4%B8%89%E7%AC%A0_(%E6%88%A6%E8%89%A6))
 - [金剛 (戦艦) - Wikipedia](https://ja.wikipedia.org/wiki/%E9%87%91%E5%89%9B_(%E6%88%A6%E8%89%A6))
-- [ジョゼフ・マロード・ウィリアム・ターナー - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%E3%83%BB%E3%83%9E%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%BC)
-- [クロード・ロラン - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AD%E3%83%A9%E3%83%B3)
+- [ジョゼフ・マロード・ウィリアム・ターナー - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=3904557)
+- [クロード・ロラン - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=7035)

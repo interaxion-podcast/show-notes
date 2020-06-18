@@ -63,7 +63,7 @@ w/ [oka](https://twitter.com/nowohyeah), [しょーた](https://twitter.com/shot
 
 ## 1:02:57 COVID-19関連の暗くない話題
 
-- [ボランティア元年 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E5%85%83%E5%B9%B4)
+- [ボランティア元年 - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=529109)
 - [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 - [COVID-19 Open Research Dataset Challenge (CORD-19) | Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 - [新型コロナ解析で分散処理プロジェクト「Folding@home」が1EFLOPS超え](https://pc.watch.impress.co.jp/docs/news/1243230.html)

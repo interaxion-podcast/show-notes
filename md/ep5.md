@@ -1,5 +1,7 @@
 # Ep. 5 Sci-Fi is more fun with physics and linguistics
 
+[ピージェイ 𐀠𐀋𐀂](https://twitter.com/xiPJ)さんと転職、リモートワーク、SFなどについて話しました。
+
 ## 0:00 ツイキャスとポッドキャストと音声学
 
 - [Interaxion: 4: Virtually-self-incarnated Postdoc](https://interaxion.page.link/ep4)

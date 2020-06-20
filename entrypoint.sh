@@ -1,11 +1,8 @@
 #!/bin/sh -l
 
-pwd
-ls
 # URL 短縮
 for md in $(ls md/*.md); do
-    echo $md
-    python3 shorten_urls_md.py $md i8n $FDL_KEY
+    python3 scripts/shorten_urls_md.py $md i8n $FDL_KEY > tmp.md
     mv tmp.md $md
 done
 

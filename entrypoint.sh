@@ -1,5 +1,7 @@
 #!/bin/sh -l
 
+pwd
+ls
 # URL 短縮
 for md in $(ls md/*.md); do
     echo $md

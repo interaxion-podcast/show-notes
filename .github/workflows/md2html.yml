@@ -9,6 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: ./
+        env:
+          FDL_TOKEN: ${{ secrets.FDL_TOKEN }}
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

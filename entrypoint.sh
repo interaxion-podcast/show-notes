@@ -1,5 +1,12 @@
 #!/bin/sh -l
 
+# URL 短縮
+for md in $(ls md/*.md); do
+    python3 shorten_urls_md.py $md i8n $FDL_KEY > tmp.md
+    mv tmp.md $md
+done
+
+# Markdown to HTML
 for md in $(ls md/*.md); do
     num=$(echo $md | sed 's/.*ep\(.*\).md/\1/g')
     pandoc -f markdown-auto_identifiers -t html md/ep$num.md -o tmp.html

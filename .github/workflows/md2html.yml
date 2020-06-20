@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ./
         env:
-          FDL_TOKEN: ${{ secrets.FDL_TOKEN }}
+          FDL_KEY: ${{ secrets.FDL_KEY }}
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

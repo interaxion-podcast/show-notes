@@ -1,8 +1,8 @@
 # コードを実行するコンテナイメージ
 FROM pandoc/latex:2.6
 
-RUN apt-get update && ¥
-    apt-get install -y python3 python3-pip && ¥
+RUN apt-get update && \
+    apt-get install -y python3 python3-pip && \
     pip3 install requests
     
 # アクションのリポジトリからコードファイルをファイルシステムパスへコピー

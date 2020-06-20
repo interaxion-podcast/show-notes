@@ -54,5 +54,3 @@
 [劉慈欣『三体Ⅱ　黒暗森林』2020年6月18日発売予定｜Hayakawa Books & Magazines（β）](https://i8n.page.link/Stkn)
 - [虐殺器官](https://amzn.to/3ezUDDl)
 - [ハーモニー](https://amzn.to/3ajJ2ox)
-
-

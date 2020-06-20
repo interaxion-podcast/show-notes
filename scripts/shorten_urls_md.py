@@ -15,9 +15,10 @@ def shorten_urls_md(mdfile, prefix, key):
                 continue
             org_url = line[m.span()[0]:m.span()[1]]
 
-            if "amzn" in org_url or "page.link" in org_url or len(org_url) < len("https://i8n.page.link/xxxx"):
+            if "amzn" in org_url or "page.link" in org_url "scrapbox" in org_url or len(org_url) < len("https://i8n.page.link/xxxx"):
                 # amzn は短縮しない
                 # 短縮済みを skip
+                # scrapbox は短縮しない
                 # 元々短いものを skip
                 newlines.append(line)
                 continue
@@ -35,4 +36,4 @@ if __name__ == "__main__":
     parser.add_argument("key", help="API Key")
     args = parser.parse_args()
 
-    print(shorten_urls_md(args.mdfile, args.prefix, args.key))
+    print(shorten_urls_md(args.mdfile, args.prefix, args.key), end='')

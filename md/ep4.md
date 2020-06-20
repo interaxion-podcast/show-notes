@@ -75,5 +75,3 @@
 - [金剛 (戦艦) - Wikipedia](https://i8n.page.link/Pjzs(%E6%88%A6%E8%89%A6))
 - [ジョゼフ・マロード・ウィリアム・ターナー - Wikipedia](https://i8n.page.link/jzrD)
 - [クロード・ロラン - Wikipedia](https://i8n.page.link/HwzL)
-
-

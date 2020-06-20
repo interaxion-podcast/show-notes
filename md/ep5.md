@@ -1,4 +1,3 @@
-h
 # Ep. 5 Sci-Fi is more fun with physics and linguistics
 
 [ピージェイ 𐀠𐀋𐀂](https://twitter.com/xiPJ)さんと転職、リモートワーク、SFなどについて話しました。

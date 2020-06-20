@@ -1,4 +1,3 @@
-h
 # Ep. 1 TajiSetsu can surpass KonMari
 
 w/ [oka](https://i8n.page.link/VgqK), [部品](https://twitter.com/tjmlab)

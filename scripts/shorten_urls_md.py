@@ -8,7 +8,6 @@ def shorten_urls_md(mdfile, prefix, key):
     pattern = re.compile("http[s]?://[\w/:%#\$&\?~\.=\+\-]+")
     with open(mdfile) as f:
         newlines = []
-        print('h')
         for line in f.readlines():
             m = re.search(pattern, line)
             if m is None:

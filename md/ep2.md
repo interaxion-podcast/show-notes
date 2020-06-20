@@ -1,4 +1,3 @@
-h
 # Ep. 2 The Year of Sparse Society
 
 w/ [oka](https://i8n.page.link/VgqK), [しょーた](https://twitter.com/shotakaha)

@@ -1,4 +1,3 @@
-h
 # Ep. 3 The Senary Industry
 
 [takahiro_isd](https://i8n.page.link/LFgS)さんとポッドキャスト、農業、マラソンなどについて話しました。

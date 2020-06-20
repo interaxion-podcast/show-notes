@@ -1,45 +1,46 @@
+h
 # Ep. 1 TajiSetsu can surpass KonMari
 
-w/ [oka](https://twitter.com/nowohyeah), [部品](https://twitter.com/tjmlab)
+w/ [oka](https://i8n.page.link/VgqK), [部品](https://twitter.com/tjmlab)
 
 ## 0:00 近況
 
 ## 1:27 Podcast の名前
 
-- [アクシオン - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%AA%E3%83%B3)
-- [Reaxion Media Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9yZWF4aW9uLm1lZGlhL2ZlZWQv)
+- [アクシオン - Wikipedia](https://i8n.page.link/joSm)
+- [Reaxion Media Podcast](https://i8n.page.link/DqQt)
 - [Anchor](https://anchor.fm/)
 - [Rebuild - Podcast by Tatsuhiko Miyagawa](https://rebuild.fm/)
 - [BILINGUALNEWS | バイリンガルニュース](https://bilingualnews.jp/)
 
 ## 6:26 転職
 
-- [カソクキセンパイ / Twitter](https://twitter.com/AccSempai)
+- [カソクキセンパイ / Twitter](https://i8n.page.link/7Awx)
 
 ## 8:34 Twitter でプチバズった話
 
-- [okaさんはTwitterを使っています 「インターネットは英語を使って python や java script で動いているらしい」 / Twitter](https://twitter.com/nowohyeah/status/1236486137620783105)
+- [okaさんはTwitterを使っています 「インターネットは英語を使って python や java script で動いているらしい」 / Twitter](https://i8n.page.link/5DTq)
 
 ## 10:50 部品さんの I/O
 
-- [2020年3月の気になった論文(暫定版) | ぶひんブログ](http://buhin-blog.blogspot.com/2020/03/20203.html)
+- [2020年3月の気になった論文(暫定版) | ぶひんブログ](https://i8n.page.link/pMZS)
 
 ## 15:13 最終講義
  
-- [退職教授による最終講義のご案内（2019年度）〔2020.3.9更新〕 – 大阪大学 大学院理学研究科・理学部](https://www.sci.osaka-u.ac.jp/ja/info/8112/)
-- [第77・78期会長候補選挙のお知らせ | 一般社団法人　日本物理学会](https://www.jps.or.jp/information/2019/12/7778kaichosenkyo.php)
+- [退職教授による最終講義のご案内（2019年度）〔2020.3.9更新〕 – 大阪大学 大学院理学研究科・理学部](https://i8n.page.link/x9HN)
+- [第77・78期会長候補選挙のお知らせ | 一般社団法人　日本物理学会](https://i8n.page.link/q11h)
 
 ## 23:14 素粒子系のニュース
 
-- [KAGRAが観測開始しました « KAGRA 大型低温重力波望遠鏡](https://gwcenter.icrr.u-tokyo.ac.jp/archives/3321)
-- [ハイパーカミオカンデ計画の開始について](http://www.hyper-k.org/news/news-20200212.html)
+- [KAGRAが観測開始しました « KAGRA 大型低温重力波望遠鏡](https://i8n.page.link/wr2g)
+- [ハイパーカミオカンデ計画の開始について](https://i8n.page.link/ARDR)
 - [NEUTRINO -Neural singing synthesizer-](https://n3utrino.work/)
 
 ## 28:58 ミラーレスカメラ
 
 - [Canon ミラーレス一眼カメラ EOS Kiss M(ブラック)・ダブルズームキット](https://amzn.to/3dL9Yk2)
-- [Nikon 1よ永久に…そして（やってくるだろう）新ミラーレスへの期待 | ギズモード・ジャパン](https://www.gizmodo.jp/2018/07/nikon-1-j1.html)
-- [ニコン、本田翼さんを起用した「Nikon 1 J5」スペシャルムービーを公開 | マイナビニュース](https://news.mynavi.jp/article/20150403-a244/)
+- [Nikon 1よ永久に…そして（やってくるだろう）新ミラーレスへの期待 | ギズモード・ジャパン](https://i8n.page.link/RnpV)
+- [ニコン、本田翼さんを起用した「Nikon 1 J5」スペシャルムービーを公開 | マイナビニュース](https://i8n.page.link/vo9u)
 
 ## 34:04 最近読んだ本など
 
@@ -52,17 +53,18 @@ w/ [oka](https://twitter.com/nowohyeah), [部品](https://twitter.com/tjmlab)
 
 ## 44:36 旅行
 
-- [ウラジオストク旅行の豆知識 | ぶひんブログ](https://buhin-blog.blogspot.com/2019/10/blog-post.html)
+- [ウラジオストク旅行の豆知識 | ぶひんブログ](https://i8n.page.link/HfJ2)
 - [週末フィンランド～ちょっと疲れたら一番近いヨーロッパへ](https://amzn.to/2UGQXXg)
 
 ## 収録機材など
 
 - 通話: [Zoom](https://zoom.us/)
-- 録音: [Audio Hijack](https://rogueamoeba.com/audiohijack/)
-- 編集: [Audacity](https://www.audacityteam.org/)
-- チャプターつけ: [RuiさんのPythonスクリプト](https://note.com/ruiu/n/n1061d541355f)
+- 録音: [Audio Hijack](https://i8n.page.link/GbHm)
+- 編集: [Audacity](https://i8n.page.link/9oj9)
+- チャプターつけ: [RuiさんのPythonスクリプト](https://i8n.page.link/46xQ)
 - ヘッドセット (oka): [サンワサプライ USBヘッドセット/ヘッドホン ホワイト MMZ-HSUSB10W](https://amzn.to/2xreWBH)
 
 ## Editorial
 
-- <https://scrapbox.io/interaxion/ep1>
+- <https://i8n.page.link/S5bQ>
+

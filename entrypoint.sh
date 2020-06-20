@@ -2,7 +2,7 @@
 
 # URL 短縮
 for md in $(ls md/*.md); do
-    python3 scripts/shorten_urls_md.py $md i8n $FDL_KEY > tmp.md
+    python3 scripts/shorten_urls_md.py $md i8n $FDL_TOKEN > tmp.md
     mv tmp.md $md
 done
 

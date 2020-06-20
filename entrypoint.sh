@@ -2,7 +2,8 @@
 
 # URL 短縮
 for md in $(ls md/*.md); do
-    python3 shorten_urls_md.py $md i8n $FDL_KEY > tmp.md
+    echo $md
+    python3 shorten_urls_md.py $md i8n $FDL_KEY
     mv tmp.md $md
 done
 
@@ -10,6 +11,7 @@ done
 for md in $(ls md/*.md); do
     num=$(echo $md | sed 's/.*ep\(.*\).md/\1/g')
     pandoc -f markdown-auto_identifiers -t html md/ep$num.md -o tmp.html
+    # 改行と <li> の閉じタグを除去
     tr -d '\n'  < tmp.html | sed 's/<\/li>//g' > html/ep$num.html
 done
 

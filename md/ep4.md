@@ -41,7 +41,7 @@
 
 ## 46:49 10万円もらったら
 
-- [アメリカでコロナ不況対策の現金給付始まる、4人世帯で3400ドル | ワールド | 最新記事 | ニューズウィーク日本版](https://i8n.page.link/DfBc)
+- [アメリカでコロナ不況対策の現金給付始まる、4人世帯で3400ドル | ニューズウィーク日本版](https://i8n.page.link/DfBc)
 - [Wacom Mobile Studio Pro](https://amzn.to/2LPTnPn)
 - [Surface Studio](https://amzn.to/3dWOnUO)
 - [Surface Dial](https://amzn.to/2TaXFor)
@@ -54,7 +54,7 @@
 ## 1:02:09 アニメ
 
 - [アニメ『アイカツオンパレード！』](http://www.aikatsu.net/)
-- [アイカツおじさんとは (アイカツオジサンとは) [単語記事] - ニコニコ大百科](https://i8n.page.link/sBT3)
+- [アイカツおじさんとは - ニコニコ大百科](https://i8n.page.link/sBT3)
 - 「アイカツはとりあえず35話まで観て欲しい」
 - [ヒーリングっど♥プリキュア | 東映アニメーション](https://i8n.page.link/GssN)
 - [キラッとプリ☆チャン　テレビ東京アニメ公式　プリチャン やってみた！](https://i8n.page.link/9kCy)
@@ -66,12 +66,12 @@
 ## 1:21:44 旅行など
 
 - [アラバマ (戦艦) - Wikipedia](https://i8n.page.link/RdRc)
-- [ペンサコーラ (重巡洋艦) - Wikipedia](https://i8n.page.link/Q5Xw(%E9%87%8D%E5%B7%A1%E6%B4%8B%E8%89%A6))
+- [ペンサコーラ (重巡洋艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=1658836)
 - [ノースカロライナ (戦艦) - Wikipedia](https://i8n.page.link/HwzL)
-- [独ビールの祭典「オクトーバーフェスト」 コロナで今年は中止　写真5枚　国際ニュース：AFPBB News](https://i8n.page.link/m3fF)
+- [独ビールの祭典「オクトーバーフェスト」 コロナで今年は中止：AFPBB News](https://i8n.page.link/m3fF)
 - [イギリスで38.1度、史上2番目の暑さ　交通混乱 - BBCニュース](https://i8n.page.link/QRDD)
 - [ヴィッカース - Wikipedia](https://i8n.page.link/4n6t)
-- [三笠 (戦艦) - Wikipedia](https://i8n.page.link/cRwk(%E6%88%A6%E8%89%A6))
-- [金剛 (戦艦) - Wikipedia](https://i8n.page.link/Pjzs(%E6%88%A6%E8%89%A6))
+- [三笠 (戦艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=140380)
+- [金剛 (戦艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=71361)
 - [ジョゼフ・マロード・ウィリアム・ターナー - Wikipedia](https://i8n.page.link/jzrD)
 - [クロード・ロラン - Wikipedia](https://i8n.page.link/HwzL)

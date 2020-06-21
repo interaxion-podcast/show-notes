@@ -65,4 +65,4 @@ w/ [oka](https://i8n.page.link/VgqK), [部品](https://twitter.com/tjmlab)
 
 ## Editorial
 
-- <https://i8n.page.link/S5bQ>
+- <https://scrapbox.io/interaxion/ep1>

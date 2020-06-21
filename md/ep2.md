@@ -90,4 +90,4 @@ w/ [oka](https://i8n.page.link/VgqK), [しょーた](https://twitter.com/shotaka
 
 ## Editorial
 
-- <https://i8n.page.link/fQzR>
+- <https://scrapbox.io/interaxion/ep2>

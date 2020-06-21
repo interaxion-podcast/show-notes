@@ -66,12 +66,12 @@
 ## 1:21:44 旅行など
 
 - [アラバマ (戦艦) - Wikipedia](https://i8n.page.link/RdRc)
-- [ペンサコーラ (重巡洋艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=1658836)
+- [ペンサコーラ (重巡洋艦) - Wikipedia](https://i8n.page.link/HTS7)
 - [ノースカロライナ (戦艦) - Wikipedia](https://i8n.page.link/HwzL)
 - [独ビールの祭典「オクトーバーフェスト」 コロナで今年は中止：AFPBB News](https://i8n.page.link/m3fF)
 - [イギリスで38.1度、史上2番目の暑さ　交通混乱 - BBCニュース](https://i8n.page.link/QRDD)
 - [ヴィッカース - Wikipedia](https://i8n.page.link/4n6t)
-- [三笠 (戦艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=140380)
-- [金剛 (戦艦) - Wikipedia](http://ja.wikipedia.org/w/index.php?curid=71361)
+- [三笠 (戦艦) - Wikipedia](https://i8n.page.link/k5kY)
+- [金剛 (戦艦) - Wikipedia](https://i8n.page.link/u43s)
 - [ジョゼフ・マロード・ウィリアム・ターナー - Wikipedia](https://i8n.page.link/jzrD)
 - [クロード・ロラン - Wikipedia](https://i8n.page.link/HwzL)

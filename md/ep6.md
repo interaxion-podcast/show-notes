@@ -1,6 +1,6 @@
 # Ep. 6 I love this company
 
-部品さんと太陽アクシオン、STM、ARPES、どうぶつの森などについて話しました。
+[部品](https://twitter.com/tjmlab)さんと太陽アクシオン、STM、ARPES、SF、どうぶつの森などについて話しました。
 
 ## 0:00  近況
 
@@ -15,7 +15,6 @@
 - ※直接関係ありませんが以下のコンテンツもおすすめです。
 - [見えない暗黒物質:アクシオンを探す| 福井大学 准教授 小川 泉 先生 | 夢ナビTALK](https://i8n.page.link/FWp4)
 - [ダークマターを見つけるには？| 徳島大学 教授 伏見 賢一 先生 | 夢ナビTALK](https://i8n.page.link/EtYc)
-- [夢ナビ 大学教授がキミを学問の世界へナビゲート](https://i8n.page.link/ajZq)
 - [宇宙ビックバンの前に迫る| 岡山大学 教授 石野 宏和 先生 | 夢ナビTALK](https://i8n.page.link/Nd7x)
 - [地底から探る素粒子と宇宙の謎| 神戸大学 教授 竹内 康雄 先生 | 夢ナビTALK](https://i8n.page.link/U5BR)
 

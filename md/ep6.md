@@ -1,6 +1,6 @@
 # Ep. 6 I love this company
 
-[部品](https://twitter.com/tjmlab)さんと太陽アクシオン、STM、ARPES、SF、どうぶつの森などについて話しました。
+[部品](https://i8n.page.link/qmaV)さんと太陽アクシオン、STM、ARPES、SF、どうぶつの森などについて話しました。
 
 ## 0:00  近況
 

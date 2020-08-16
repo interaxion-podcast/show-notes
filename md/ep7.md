@@ -9,7 +9,7 @@
   - [ポッドキャスト好き](https://link.medium.com/JaMJCpoXF8)
 - [部品さん](https://twitter.com/tjmlab)
 - [☆1ぴえん](https://twitter.com/nowohyeah/status/1291365088922763265)
-- [‎Apple Podcast内のInteraxion](https://podcasts.apple.com/jp/podcast/interaxion/id1503487109)
+- [Apple Podcast内のInteraxion](https://podcasts.apple.com/jp/podcast/interaxion/id1503487109)
 
 ## 9:57 好きなポッドキャストについて
 

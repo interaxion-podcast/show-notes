@@ -140,7 +140,7 @@
 - [伊藤計劃トリビュート](https://amzn.to/3mKuVjh)
 - [Interaxion ep. 1: TajiSetsu can surpass KonMari](https://interaxion-podcast.github.io/1)
 
-### 1:27:13 VTuberとゆるキャラグランプリ (おめシスはいいぞ)
+### 1:27:13 VTuberとゆるキャラグランプリ、おめシスはいいぞ
 
 - [ぽんぽこちゃんねる](https://www.youtube.com/channel/UC1EB8moGYdkoZQfWHjh7Ivw)
 - [ペイレンジャーのアジト−ゆうちょ銀行](https://www.jp-bank.japanpost.jp/kojin/sokin/yuchopay/kj_sk_yp_payranger.html)

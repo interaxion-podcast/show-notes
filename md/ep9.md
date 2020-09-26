@@ -8,6 +8,7 @@
 - [「3月、10時間のフライトで1人の乗客(ビジネスクラス)は、彼女のキャビン内(ビジネスクラス)の他の20人の乗客のうち12人をコロナウイルスに感染させ、飛行機で他の少なくとも3人(エコノミークラス)を感染させた。」 / Twitter](https://twitter.com/AirborneKanki/status/1307159366349418496?s=20)
 - [Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 During Long Flight - CDC](https://wwwnc.cdc.gov/eid/article/26/11/20-3299_article)
 - [【特集】競合ひしめくビデオ会議ツールでZoomが成功できたわけ – TECHBLITZ](https://techblitz.com/zoom/)
+- [【ZM】ZOOM前年同期比+355%！なぜ圧倒的に勝利したのか？ - やすブログ](https://kysu.jp/zoom-2020q2/)
 - Webex teams Help center: [“関連するチームから将軍を移動することはできません 。”](https://help.webex.com/ja-jp/m4hfiu/Webex-Teams-6-Special-Things-About-General-Spaces)
 
 ## 4:31 ブカさんと磁石

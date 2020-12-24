@@ -13,23 +13,6 @@ topics:
     - 最近読んだ本など(34:04)
     - 旅行(44:36)
 ---
-episode: md/ep10-short.md
-title: I'm sorry I died
-topics:
-    - カソクキセンパイと研究(1:12)
-    - カソクキセンパイと Twitter(22:51)
-    - ノーベル賞(26:24)
-    - 学術会議(29:29)
-    - 室温超伝導(34:45)
-    - JAXA が宇宙飛行士の募集を発表(38:58)
-    - 自転車(46:49)
-    - Blender と電子工作(1:08:57)
-    - コメディとアクセント(1:21:48)
-    - 映画(1:32:58)
-    - ビッグタイトル(1:39:05)
-    - インディーゲーム(1:46:09)
-    - 機械学習(1:52:44)
----
 episode: 10
 title: I'm sorry I died
 topics:
@@ -46,26 +29,6 @@ topics:
     - ビッグタイトル(1:39:05)
     - インディーゲーム(1:46:09)
     - 機械学習(1:52:44)
----
-episode: md/ep11-short.md
-title: Go to Yakushima if you need someone
-topics:
-    - いっちぃです(1:43)
-    - ニュース(9:28)
-    - 仁科記念賞(9:42)
-    - 小柴さん(15:16)
-    - SpaceX、はやぶさ2、金星ホスフィン(21:20)
-    - ディープラーニングと物理学(34:57)
-    - マイク(38:51)
-    - いっちぃさんの趣味のこと(43:04)
-    - バレーボール(43:43)
-    - 登山(48:26)
-    - 合唱(52:49)
-    - 子育て(54:23)
-    - 株(58:33)
-    - 出会い方(1:06:16)
-    - コンテンツ(1:20:35)
-    - お知らせ(1:34:30)
 ---
 episode: 11
 title: Go to Yakushima if you need someone
@@ -87,20 +50,6 @@ topics:
     - コンテンツ(1:20:35)
     - お知らせ(1:34:30)
 ---
-episode: md/ep12-short.md
-title: AWS as a complex system
-topics:
-    - Flash 終了とホームランダービー(0:00)
-    - アレシボ天文台とはやぶさ2(4:42)
-    - AlphaFold2とタンパク質の折りたたみ(7:24)
-    - MCMC、砂漠、タンパク質、交通流、魔方陣(19:07)
-    - プログラミングコンテスト(28:42)
-    - いい生活と AWS の話(50:59)
-    - PyCon JP と出会いについて(58:21)
-    - Salesforce が Slack 買収(62:49)
-    - ラーメンズ(64:33)
-    - 阪大関係(66:00)
----
 episode: 12
 title: AWS as a complex system
 topics:
@@ -115,7 +64,7 @@ topics:
     - ラーメンズ(64:33)
     - 阪大関係(66:00)
 ---
-episode: md/ep13-short.md
+episode: 13
 title: Superconductivity in your brain
 topics:
     - 献本(1:28)

@@ -16,14 +16,14 @@ if len(sys.argv) != 2:
 mp3file = sys.argv[1]
 
 def get_episode():
-  m = re.match(r"(?:^|.*/)(\d+).mp3$", mp3file)
+  m = re.match(r"(?:^|.*/)(\d+|\d+.\d).mp3$", mp3file)
   if m is None:
     print("Usage: %s path/to.mp3" % sys.argv[0])
     exit(1)
-  n = int(m.group(1))
-
+  n = str(m.group(1))
   for ep in yaml.load_all(open(path.expanduser('episodes.yml'), 'r'), Loader=yaml.FullLoader):
-    if ep['episode'] == n:
+    print(ep)
+    if str(ep['episode']) == n:
       return ep
 
   print("invalid episode number: ", mp3file)

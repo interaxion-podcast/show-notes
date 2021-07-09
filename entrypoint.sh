@@ -1,6 +1,6 @@
 #!/bin/sh -l
 
-echo $CHANGED_FILES
+cat CHANGED_FILES
 
 # URL 短縮
 for md in $(ls md/*.md); do

@@ -5,8 +5,8 @@ import requests
 from shorten_url import shorten_url
 
 def shorten_urls_md(mdfile, prefix, key):
-    # () を除く、文字、数字、記号の連続を URL とみなす
-    pattern = re.compile("(http|https)://[\w/\d:%#\$\&\?~\.=\+-\_]+")
+    # () を除く、文字、数字、記号の連続を URL とみなす (マイナス記号は最後にする)
+    pattern = re.compile("(http|https)://[\w/\d:%#\$\&\?~\.=\+\_-]+")
     with open(mdfile) as f:
         newlines = []
         for line in f.readlines():

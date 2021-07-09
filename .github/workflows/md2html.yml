@@ -11,7 +11,7 @@ jobs:
       - name: create CHANGED_FILES list
         # https://stackoverflow.com/a/57862507/11480802
         # https://docs.github.com/ja/actions/reference/environment-variables
-        run: echo "CHANGED_FILES=$(git diff --name-only ${GITHUB_SHA}^..$GITHUB_SHA)" | grep -e ".*md" > CHANGED_FILES
+        run: git diff --name-only ${GITHUB_SHA}^..$GITHUB_SHA | grep -e ".*\.md" > CHANGED_FILES
       - uses: ./
         env:
           FDL_KEY: ${{ secrets.FDL_KEY }}

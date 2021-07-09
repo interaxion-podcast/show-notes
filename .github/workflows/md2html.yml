@@ -8,6 +8,9 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
+      - name: add CHANGED_FILES to ENV
+        # https://stackoverflow.com/a/57862507/11480802
+        run: echo "CHANGED_FILES=$(git diff --name-only \"$GITHUB_BASE_REF..$GITHUB_SHA\")" >> $GITHUB_ENV
       - uses: ./
         env:
           FDL_KEY: ${{ secrets.FDL_KEY }}

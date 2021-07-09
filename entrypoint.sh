@@ -1,7 +1,6 @@
 #!/bin/sh -l
 
-# https://stackoverflow.com/a/57862507/11480802
-echo "Updated files = $(git diff --name-only "$GITHUB_BASE_REF..$GITHUB_SHA")"
+echo $CHANGED_FILES
 
 # URL 短縮
 for md in $(ls md/*.md); do

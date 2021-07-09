@@ -1,5 +1,8 @@
 #!/bin/sh -l
 
+# https://stackoverflow.com/a/57862507/11480802
+echo "Updated files = $(git diff --name-only "$GITHUB_BASE_REF..$GITHUB_SHA")"
+
 # URL 短縮
 for md in $(ls md/*.md); do
     python3 scripts/shorten_urls_md.py $md i8n $FDL_KEY > tmp.md

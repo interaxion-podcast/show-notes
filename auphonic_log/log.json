@@ -1,0 +1,6706 @@
+{
+  "/Users/oka/Nextcloud/podcast/finished_audio/29.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 6730.187755102041, 
+        "filename": "29.mp3", 
+        "channels": 1, 
+        "length": 296801280, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "77.2 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "77.0 MB", 
+        "filename": "29-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:07:12.348", 
+          "stop_sec": 432.348, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 432.348, 
+          "stop": "00:08:19.296", 
+          "stop_sec": 499.296, 
+          "start": "00:07:12.348"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 499.296, 
+          "stop": "01:52:10.187", 
+          "stop_sec": 6730.188, 
+          "start": "00:08:19.296"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:52:10.187", 
+          "stop_sec": 6730.188, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.13, 
+            "LU"
+          ], 
+          "noise_level": [
+            -77.42, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -10.2, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.83, 
+            "dB"
+          ], 
+          "snr": [
+            53.59, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.83, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -23.15, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.29, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.82, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.03, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.01, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.7, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            18.15, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/28.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 7016.881632653061, 
+        "filename": "28.mp3", 
+        "channels": 1, 
+        "length": 309444480, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "80.4 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "80.3 MB", 
+        "filename": "28-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:56:56.881", 
+          "stop_sec": 7016.882, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:56:56.881", 
+          "stop_sec": 7016.882, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            11.6, 
+            "LU"
+          ], 
+          "noise_level": [
+            -72.93, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -7.73, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -26.54, 
+            "dB"
+          ], 
+          "snr": [
+            46.38, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.29, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -24.47, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.86, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.34, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.03, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -1.47, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            10.13, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            24.41, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/8.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 3623.859455782313, 
+        "filename": "8.mp3", 
+        "channels": 1, 
+        "length": 159812202, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "41.6 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "41.5 MB", 
+        "filename": "8-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:00:23.859", 
+          "stop_sec": 3623.859, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:00:23.859", 
+          "stop_sec": 3623.859, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            12.35, 
+            "LU"
+          ], 
+          "noise_level": [
+            -70.43, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -8.61, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -25.07, 
+            "dB"
+          ], 
+          "snr": [
+            45.36, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.81, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -21.9, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.83, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.58, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.77, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -1.35, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            7.23, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            21.99, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/34.5.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 1911.6675056689342, 
+        "filename": "34.5.mp3", 
+        "channels": 1, 
+        "length": 84304537, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "22.0 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "21.9 MB", 
+        "filename": "34.5-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": 50, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:31:51.667", 
+          "stop_sec": 1911.668, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:31:51.667", 
+          "stop_sec": 1911.668, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.29, 
+            "LU"
+          ], 
+          "noise_level": [
+            -68.39, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -5.42, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.45, 
+            "dB"
+          ], 
+          "snr": [
+            44.94, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -11.42, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.74, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.48, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.99, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.76, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -0.22, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            7.91, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            17.93, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/18.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 4659.689183673469, 
+        "filename": "18.mp3", 
+        "channels": 1, 
+        "length": 205492293, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "53.4 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "53.3 MB", 
+        "filename": "18-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:09:06.538", 
+          "stop_sec": 546.539, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 546.539, 
+          "stop": "00:10:09.030", 
+          "stop_sec": 609.03, 
+          "start": "00:09:06.538"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 609.03, 
+          "stop": "00:10:57.353", 
+          "stop_sec": 657.354, 
+          "start": "00:10:09.030"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 657.354, 
+          "stop": "00:11:42.597", 
+          "stop_sec": 702.597, 
+          "start": "00:10:57.353"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 702.597, 
+          "stop": "00:17:37.095", 
+          "stop_sec": 1057.096, 
+          "start": "00:11:42.597"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1057.096, 
+          "stop": "00:18:42.117", 
+          "stop_sec": 1122.118, 
+          "start": "00:17:37.095"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1122.118, 
+          "stop": "00:19:48.696", 
+          "stop_sec": 1188.697, 
+          "start": "00:18:42.117"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1188.697, 
+          "stop": "00:20:33.877", 
+          "stop_sec": 1233.877, 
+          "start": "00:19:48.696"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1233.877, 
+          "stop": "00:23:47.654", 
+          "stop_sec": 1427.655, 
+          "start": "00:20:33.877"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1427.655, 
+          "stop": "00:24:23.365", 
+          "stop_sec": 1463.366, 
+          "start": "00:23:47.654"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1463.366, 
+          "stop": "00:30:02.029", 
+          "stop_sec": 1802.029, 
+          "start": "00:24:23.365"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1802.029, 
+          "stop": "00:32:23.145", 
+          "stop_sec": 1943.145, 
+          "start": "00:30:02.029"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1943.145, 
+          "stop": "00:32:50.385", 
+          "stop_sec": 1970.385, 
+          "start": "00:32:23.145"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1970.385, 
+          "stop": "00:47:41.177", 
+          "stop_sec": 2861.177, 
+          "start": "00:32:50.385"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2861.177, 
+          "stop": "00:48:44.065", 
+          "stop_sec": 2924.066, 
+          "start": "00:47:41.177"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2924.066, 
+          "stop": "01:00:36.735", 
+          "stop_sec": 3636.735, 
+          "start": "00:48:44.065"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3636.735, 
+          "stop": "01:00:58.025", 
+          "stop_sec": 3658.026, 
+          "start": "01:00:36.735"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3658.026, 
+          "stop": "01:01:38.750", 
+          "stop_sec": 3698.75, 
+          "start": "01:00:58.025"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3698.75, 
+          "stop": "01:02:14.884", 
+          "stop_sec": 3734.885, 
+          "start": "01:01:38.750"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3734.885, 
+          "stop": "01:05:00.628", 
+          "stop_sec": 3900.629, 
+          "start": "01:02:14.884"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3900.629, 
+          "stop": "01:05:50.527", 
+          "stop_sec": 3950.528, 
+          "start": "01:05:00.628"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3950.528, 
+          "stop": "01:09:23.524", 
+          "stop_sec": 4163.524, 
+          "start": "01:05:50.527"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4163.524, 
+          "stop": "01:11:11.871", 
+          "stop_sec": 4271.872, 
+          "start": "01:09:23.524"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4271.872, 
+          "stop": "01:11:41.866", 
+          "stop_sec": 4301.867, 
+          "start": "01:11:11.871"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4301.867, 
+          "stop": "01:12:45.096", 
+          "stop_sec": 4365.096, 
+          "start": "01:11:41.866"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4365.096, 
+          "stop": "01:14:32.769", 
+          "stop_sec": 4472.769, 
+          "start": "01:12:45.096"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4472.769, 
+          "stop": "01:15:15.069", 
+          "stop_sec": 4515.069, 
+          "start": "01:14:32.769"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4515.069, 
+          "stop": "01:15:41.193", 
+          "stop_sec": 4541.194, 
+          "start": "01:15:15.069"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4541.194, 
+          "stop": "01:17:17.065", 
+          "stop_sec": 4637.065, 
+          "start": "01:15:41.193"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4637.065, 
+          "stop": "01:17:39.689", 
+          "stop_sec": 4659.689, 
+          "start": "01:17:17.065"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:17:39.689", 
+          "stop_sec": 4659.689, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            8.1, 
+            "LU"
+          ], 
+          "noise_level": [
+            -71.82, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -13.59, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -21.47, 
+            "dB"
+          ], 
+          "snr": [
+            50.35, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -17.64, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -21.89, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.19, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.11, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.44, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -0.13, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            5.1, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            16.86, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/12.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 4282.913968253968, 
+        "filename": "12.mp3", 
+        "channels": 1, 
+        "length": 188876506, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "49.1 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "49.0 MB", 
+        "filename": "12-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:16:36.881", 
+          "stop_sec": 996.881, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 996.881, 
+          "stop": "00:17:17.480", 
+          "stop_sec": 1037.481, 
+          "start": "00:16:36.881"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1037.481, 
+          "stop": "00:19:06.188", 
+          "stop_sec": 1146.189, 
+          "start": "00:17:17.480"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1146.189, 
+          "stop": "00:19:39.199", 
+          "stop_sec": 1179.199, 
+          "start": "00:19:06.188"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1179.199, 
+          "stop": "00:20:12.047", 
+          "stop_sec": 1212.047, 
+          "start": "00:19:39.199"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1212.047, 
+          "stop": "00:21:43.345", 
+          "stop_sec": 1303.346, 
+          "start": "00:20:12.047"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1303.346, 
+          "stop": "00:23:00.249", 
+          "stop_sec": 1380.249, 
+          "start": "00:21:43.345"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1380.249, 
+          "stop": "00:23:35.051", 
+          "stop_sec": 1415.051, 
+          "start": "00:23:00.249"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1415.051, 
+          "stop": "00:24:38.821", 
+          "stop_sec": 1478.822, 
+          "start": "00:23:35.051"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1478.822, 
+          "stop": "00:25:41.385", 
+          "stop_sec": 1541.386, 
+          "start": "00:24:38.821"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1541.386, 
+          "stop": "00:27:27.987", 
+          "stop_sec": 1647.988, 
+          "start": "00:25:41.385"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1647.988, 
+          "stop": "00:27:56.551", 
+          "stop_sec": 1676.551, 
+          "start": "00:27:27.987"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1676.551, 
+          "stop": "00:29:14.607", 
+          "stop_sec": 1754.607, 
+          "start": "00:27:56.551"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1754.607, 
+          "stop": "00:31:36.883", 
+          "stop_sec": 1896.883, 
+          "start": "00:29:14.607"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1896.883, 
+          "stop": "00:33:26.807", 
+          "stop_sec": 2006.807, 
+          "start": "00:31:36.883"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2006.807, 
+          "stop": "00:33:51.409", 
+          "stop_sec": 2031.41, 
+          "start": "00:33:26.807"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2031.41, 
+          "stop": "00:35:35.337", 
+          "stop_sec": 2135.337, 
+          "start": "00:33:51.409"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2135.337, 
+          "stop": "00:36:04.089", 
+          "stop_sec": 2164.09, 
+          "start": "00:35:35.337"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2164.09, 
+          "stop": "00:37:28.250", 
+          "stop_sec": 2248.25, 
+          "start": "00:36:04.089"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2248.25, 
+          "stop": "00:38:36.304", 
+          "stop_sec": 2316.305, 
+          "start": "00:37:28.250"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2316.305, 
+          "stop": "00:39:07.406", 
+          "stop_sec": 2347.407, 
+          "start": "00:38:36.304"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2347.407, 
+          "stop": "00:41:00.993", 
+          "stop_sec": 2460.993, 
+          "start": "00:39:07.406"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2460.993, 
+          "stop": "00:42:04.466", 
+          "stop_sec": 2524.466, 
+          "start": "00:41:00.993"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2524.466, 
+          "stop": "00:43:36.548", 
+          "stop_sec": 2616.548, 
+          "start": "00:42:04.466"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2616.548, 
+          "stop": "00:45:13.751", 
+          "stop_sec": 2713.752, 
+          "start": "00:43:36.548"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2713.752, 
+          "stop": "00:46:13.516", 
+          "stop_sec": 2773.516, 
+          "start": "00:45:13.751"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2773.516, 
+          "stop": "00:51:33.365", 
+          "stop_sec": 3093.366, 
+          "start": "00:46:13.516"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3093.366, 
+          "stop": "00:53:11.208", 
+          "stop_sec": 3191.209, 
+          "start": "00:51:33.365"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3191.209, 
+          "stop": "00:53:56.723", 
+          "stop_sec": 3236.723, 
+          "start": "00:53:11.208"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3236.723, 
+          "stop": "00:55:10.854", 
+          "stop_sec": 3310.854, 
+          "start": "00:53:56.723"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3310.854, 
+          "stop": "00:56:09.736", 
+          "stop_sec": 3369.736, 
+          "start": "00:55:10.854"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3369.736, 
+          "stop": "00:56:46.473", 
+          "stop_sec": 3406.474, 
+          "start": "00:56:09.736"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3406.474, 
+          "stop": "00:57:33.490", 
+          "stop_sec": 3453.491, 
+          "start": "00:56:46.473"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3453.491, 
+          "stop": "00:58:03.656", 
+          "stop_sec": 3483.657, 
+          "start": "00:57:33.490"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3483.657, 
+          "stop": "00:58:46.425", 
+          "stop_sec": 3526.425, 
+          "start": "00:58:03.656"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3526.425, 
+          "stop": "00:59:23.946", 
+          "stop_sec": 3563.946, 
+          "start": "00:58:46.425"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3563.946, 
+          "stop": "01:00:43.910", 
+          "stop_sec": 3643.91, 
+          "start": "00:59:23.946"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3643.91, 
+          "stop": "01:02:42.034", 
+          "stop_sec": 3762.035, 
+          "start": "01:00:43.910"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3762.035, 
+          "stop": "01:03:34.525", 
+          "stop_sec": 3814.525, 
+          "start": "01:02:42.034"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3814.525, 
+          "stop": "01:10:35.242", 
+          "stop_sec": 4235.242, 
+          "start": "01:03:34.525"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4235.242, 
+          "stop": "01:11:04.480", 
+          "stop_sec": 4264.48, 
+          "start": "01:10:35.242"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4264.48, 
+          "stop": "01:11:22.913", 
+          "stop_sec": 4282.914, 
+          "start": "01:11:04.480"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:11:22.913", 
+          "stop_sec": 4282.914, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            7.98, 
+            "LU"
+          ], 
+          "noise_level": [
+            -60.17, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -7.49, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -17.45, 
+            "dB"
+          ], 
+          "snr": [
+            42.72, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -12.43, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -17.5, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.77, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.22, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.17, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -4.31, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            0.58, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            9.97, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/36.5.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 2609.345306122449, 
+        "filename": "36.5.mp3", 
+        "channels": 1, 
+        "length": 115072128, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "29.9 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "29.9 MB", 
+        "filename": "36.5-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:00:47.810", 
+          "stop_sec": 47.81, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 47.81, 
+          "stop": "00:01:22.296", 
+          "stop_sec": 82.297, 
+          "start": "00:00:47.810"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 82.297, 
+          "stop": "00:02:35.815", 
+          "stop_sec": 155.816, 
+          "start": "00:01:22.296"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 155.816, 
+          "stop": "00:03:10.446", 
+          "stop_sec": 190.447, 
+          "start": "00:02:35.815"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 190.447, 
+          "stop": "00:05:07.859", 
+          "stop_sec": 307.86, 
+          "start": "00:03:10.446"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 307.86, 
+          "stop": "00:06:57.774", 
+          "stop_sec": 417.775, 
+          "start": "00:05:07.859"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 417.775, 
+          "stop": "00:08:48.048", 
+          "stop_sec": 528.049, 
+          "start": "00:06:57.774"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 528.049, 
+          "stop": "00:09:59.570", 
+          "stop_sec": 599.57, 
+          "start": "00:08:48.048"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 599.57, 
+          "stop": "00:10:40.906", 
+          "stop_sec": 640.907, 
+          "start": "00:09:59.570"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 640.907, 
+          "stop": "00:11:17.896", 
+          "stop_sec": 677.896, 
+          "start": "00:10:40.906"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 677.896, 
+          "stop": "00:14:03.181", 
+          "stop_sec": 843.181, 
+          "start": "00:11:17.896"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 843.181, 
+          "stop": "00:14:29.630", 
+          "stop_sec": 869.63, 
+          "start": "00:14:03.181"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 869.63, 
+          "stop": "00:15:05.772", 
+          "stop_sec": 905.772, 
+          "start": "00:14:29.630"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 905.772, 
+          "stop": "00:15:27.962", 
+          "stop_sec": 927.963, 
+          "start": "00:15:05.772"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 927.963, 
+          "stop": "00:16:35.927", 
+          "stop_sec": 995.927, 
+          "start": "00:15:27.962"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 995.927, 
+          "stop": "00:24:00.364", 
+          "stop_sec": 1440.365, 
+          "start": "00:16:35.927"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1440.365, 
+          "stop": "00:26:16.916", 
+          "stop_sec": 1576.917, 
+          "start": "00:24:00.364"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1576.917, 
+          "stop": "00:27:41.283", 
+          "stop_sec": 1661.283, 
+          "start": "00:26:16.916"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1661.283, 
+          "stop": "00:28:22.413", 
+          "stop_sec": 1702.414, 
+          "start": "00:27:41.283"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1702.414, 
+          "stop": "00:30:30.007", 
+          "stop_sec": 1830.007, 
+          "start": "00:28:22.413"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1830.007, 
+          "stop": "00:33:42.209", 
+          "stop_sec": 2022.209, 
+          "start": "00:30:30.007"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2022.209, 
+          "stop": "00:35:39.739", 
+          "stop_sec": 2139.739, 
+          "start": "00:33:42.209"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2139.739, 
+          "stop": "00:35:58.347", 
+          "stop_sec": 2158.347, 
+          "start": "00:35:39.739"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2158.347, 
+          "stop": "00:36:37.802", 
+          "stop_sec": 2197.802, 
+          "start": "00:35:58.347"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2197.802, 
+          "stop": "00:37:32.075", 
+          "stop_sec": 2252.075, 
+          "start": "00:36:37.802"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2252.075, 
+          "stop": "00:38:27.456", 
+          "stop_sec": 2307.456, 
+          "start": "00:37:32.075"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2307.456, 
+          "stop": "00:39:26.653", 
+          "stop_sec": 2366.653, 
+          "start": "00:38:27.456"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2366.653, 
+          "stop": "00:40:48.409", 
+          "stop_sec": 2448.409, 
+          "start": "00:39:26.653"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2448.409, 
+          "stop": "00:41:20.978", 
+          "stop_sec": 2480.978, 
+          "start": "00:40:48.409"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2480.978, 
+          "stop": "00:42:58.236", 
+          "stop_sec": 2578.236, 
+          "start": "00:41:20.978"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2578.236, 
+          "stop": "00:43:29.345", 
+          "stop_sec": 2609.345, 
+          "start": "00:42:58.236"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:43:29.345", 
+          "stop_sec": 2609.345, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.22, 
+            "LU"
+          ], 
+          "noise_level": [
+            -77.98, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -10.75, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.44, 
+            "dB"
+          ], 
+          "snr": [
+            54.53, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.46, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.49, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.74, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.82, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.0, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -0.46, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.59, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            17.49, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/36.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 6730.553469387755, 
+        "filename": "36.mp3", 
+        "channels": 1, 
+        "length": 296817408, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "77.2 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "77.0 MB", 
+        "filename": "36-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:52:10.553", 
+          "stop_sec": 6730.553, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:52:10.553", 
+          "stop_sec": 6730.553, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.2, 
+            "LU"
+          ], 
+          "noise_level": [
+            -78.35, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -9.08, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.69, 
+            "dB"
+          ], 
+          "snr": [
+            54.66, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -15.65, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.01, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.72, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.85, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.43, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -0.2, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.44, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            19.98, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/34.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5650.104353741496, 
+        "filename": "34.mp3", 
+        "channels": 1, 
+        "length": 249169602, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "64.8 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "64.7 MB", 
+        "filename": "34-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:34:10.104", 
+          "stop_sec": 5650.104, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:34:10.104", 
+          "stop_sec": 5650.104, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            8.72, 
+            "LU"
+          ], 
+          "noise_level": [
+            -73.78, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -13.59, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.08, 
+            "dB"
+          ], 
+          "snr": [
+            49.7, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -17.59, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -23.64, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.67, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.21, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.29, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            1.27, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            7.79, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            22.32, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/20.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 7873.269047619047, 
+        "filename": "20.mp3", 
+        "channels": 1, 
+        "length": 347211165, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "90.2 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "90.1 MB", 
+        "filename": "20-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:36:34.541", 
+          "stop_sec": 5794.542, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5794.542, 
+          "stop": "02:10:03.904", 
+          "stop_sec": 7803.904, 
+          "start": "01:36:34.541"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": false, 
+          "start_sec": 7803.904, 
+          "stop": "02:11:13.269", 
+          "stop_sec": 7873.269, 
+          "start": "02:10:03.904"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "02:11:13.269", 
+          "stop_sec": 7873.269, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.86, 
+            "LU"
+          ], 
+          "noise_level": [
+            -74.29, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -7.26, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.41, 
+            "dB"
+          ], 
+          "snr": [
+            50.88, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -12.54, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -21.97, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.72, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.65, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.44, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.99, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.2, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            19.29, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/25.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 6102.38693877551, 
+        "filename": "25.mp3", 
+        "channels": 1, 
+        "length": 269115264, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "70.0 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "69.8 MB", 
+        "filename": "25-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:41:42.386", 
+          "stop_sec": 6102.387, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:41:42.386", 
+          "stop_sec": 6102.387, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            7.33, 
+            "LU"
+          ], 
+          "noise_level": [
+            -78.0, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -8.41, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -22.57, 
+            "dB"
+          ], 
+          "snr": [
+            55.44, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -13.02, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.24, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            3.1, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.48, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.65, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -3.01, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            5.82, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            17.32, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/33.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 8106.762448979592, 
+        "filename": "33.mp3", 
+        "channels": 1, 
+        "length": 357508224, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "92.9 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "92.8 MB", 
+        "filename": "33-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:00:37.223", 
+          "stop_sec": 37.223, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 37.223, 
+          "stop": "00:00:58.819", 
+          "stop_sec": 58.82, 
+          "start": "00:00:37.223"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 58.82, 
+          "stop": "00:01:19.893", 
+          "stop_sec": 79.893, 
+          "start": "00:00:58.819"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 79.893, 
+          "stop": "00:01:52.156", 
+          "stop_sec": 112.157, 
+          "start": "00:01:19.893"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 112.157, 
+          "stop": "00:04:18.862", 
+          "stop_sec": 258.862, 
+          "start": "00:01:52.156"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 258.862, 
+          "stop": "00:04:58.741", 
+          "stop_sec": 298.741, 
+          "start": "00:04:18.862"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 298.741, 
+          "stop": "00:10:33.218", 
+          "stop_sec": 633.219, 
+          "start": "00:04:58.741"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 633.219, 
+          "stop": "00:10:55.148", 
+          "stop_sec": 655.148, 
+          "start": "00:10:33.218"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 655.148, 
+          "stop": "00:11:40.778", 
+          "stop_sec": 700.779, 
+          "start": "00:10:55.148"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 700.779, 
+          "stop": "00:12:05.399", 
+          "stop_sec": 725.399, 
+          "start": "00:11:40.778"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 725.399, 
+          "stop": "00:14:38.550", 
+          "stop_sec": 878.55, 
+          "start": "00:12:05.399"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 878.55, 
+          "stop": "00:15:10.561", 
+          "stop_sec": 910.561, 
+          "start": "00:14:38.550"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 910.561, 
+          "stop": "00:15:40.268", 
+          "stop_sec": 940.268, 
+          "start": "00:15:10.561"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 940.268, 
+          "stop": "00:16:34.621", 
+          "stop_sec": 994.622, 
+          "start": "00:15:40.268"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 994.622, 
+          "stop": "00:19:10.041", 
+          "stop_sec": 1150.042, 
+          "start": "00:16:34.621"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1150.042, 
+          "stop": "00:19:58.770", 
+          "stop_sec": 1198.77, 
+          "start": "00:19:10.041"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1198.77, 
+          "stop": "00:20:34.669", 
+          "stop_sec": 1234.669, 
+          "start": "00:19:58.770"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1234.669, 
+          "stop": "00:20:54.627", 
+          "stop_sec": 1254.627, 
+          "start": "00:20:34.669"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1254.627, 
+          "stop": "00:28:56.882", 
+          "stop_sec": 1736.882, 
+          "start": "00:20:54.627"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1736.882, 
+          "stop": "00:29:30.774", 
+          "stop_sec": 1770.774, 
+          "start": "00:28:56.882"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1770.774, 
+          "stop": "00:36:22.346", 
+          "stop_sec": 2182.346, 
+          "start": "00:29:30.774"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2182.346, 
+          "stop": "00:37:49.782", 
+          "stop_sec": 2269.782, 
+          "start": "00:36:22.346"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2269.782, 
+          "stop": "00:38:27.816", 
+          "stop_sec": 2307.816, 
+          "start": "00:37:49.782"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2307.816, 
+          "stop": "00:39:17.047", 
+          "stop_sec": 2357.048, 
+          "start": "00:38:27.816"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2357.048, 
+          "stop": "00:40:18.378", 
+          "stop_sec": 2418.378, 
+          "start": "00:39:17.047"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2418.378, 
+          "stop": "00:41:23.958", 
+          "stop_sec": 2483.958, 
+          "start": "00:40:18.378"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2483.958, 
+          "stop": "00:46:13.390", 
+          "stop_sec": 2773.39, 
+          "start": "00:41:23.958"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2773.39, 
+          "stop": "00:46:53.530", 
+          "stop_sec": 2813.53, 
+          "start": "00:46:13.390"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2813.53, 
+          "stop": "01:07:46.104", 
+          "stop_sec": 4066.104, 
+          "start": "00:46:53.530"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4066.104, 
+          "stop": "01:08:22.616", 
+          "stop_sec": 4102.617, 
+          "start": "01:07:46.104"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4102.617, 
+          "stop": "01:17:24.644", 
+          "stop_sec": 4644.645, 
+          "start": "01:08:22.616"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4644.645, 
+          "stop": "01:18:02.443", 
+          "stop_sec": 4682.444, 
+          "start": "01:17:24.644"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4682.444, 
+          "stop": "01:20:20.183", 
+          "stop_sec": 4820.184, 
+          "start": "01:18:02.443"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4820.184, 
+          "stop": "01:20:44.714", 
+          "stop_sec": 4844.714, 
+          "start": "01:20:20.183"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4844.714, 
+          "stop": "01:27:59.159", 
+          "stop_sec": 5279.159, 
+          "start": "01:20:44.714"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5279.159, 
+          "stop": "01:28:27.768", 
+          "stop_sec": 5307.768, 
+          "start": "01:27:59.159"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5307.768, 
+          "stop": "01:29:24.471", 
+          "stop_sec": 5364.471, 
+          "start": "01:28:27.768"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5364.471, 
+          "stop": "01:30:12.415", 
+          "stop_sec": 5412.416, 
+          "start": "01:29:24.471"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5412.416, 
+          "stop": "01:30:47.424", 
+          "stop_sec": 5447.425, 
+          "start": "01:30:12.415"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5447.425, 
+          "stop": "01:31:31.264", 
+          "stop_sec": 5491.264, 
+          "start": "01:30:47.424"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5491.264, 
+          "stop": "01:33:35.491", 
+          "stop_sec": 5615.492, 
+          "start": "01:31:31.264"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5615.492, 
+          "stop": "01:35:14.126", 
+          "stop_sec": 5714.127, 
+          "start": "01:33:35.491"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5714.127, 
+          "stop": "01:35:41.529", 
+          "stop_sec": 5741.529, 
+          "start": "01:35:14.126"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5741.529, 
+          "stop": "01:36:32.345", 
+          "stop_sec": 5792.345, 
+          "start": "01:35:41.529"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5792.345, 
+          "stop": "01:38:43.189", 
+          "stop_sec": 5923.189, 
+          "start": "01:36:32.345"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5923.189, 
+          "stop": "01:39:10.375", 
+          "stop_sec": 5950.375, 
+          "start": "01:38:43.189"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5950.375, 
+          "stop": "01:39:42.566", 
+          "stop_sec": 5982.566, 
+          "start": "01:39:10.375"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5982.566, 
+          "stop": "01:42:21.506", 
+          "stop_sec": 6141.506, 
+          "start": "01:39:42.566"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6141.506, 
+          "stop": "01:46:12.407", 
+          "stop_sec": 6372.407, 
+          "start": "01:42:21.506"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6372.407, 
+          "stop": "01:46:46.389", 
+          "stop_sec": 6406.39, 
+          "start": "01:46:12.407"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6406.39, 
+          "stop": "01:47:56.596", 
+          "stop_sec": 6476.596, 
+          "start": "01:46:46.389"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6476.596, 
+          "stop": "01:48:58.728", 
+          "stop_sec": 6538.729, 
+          "start": "01:47:56.596"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6538.729, 
+          "stop": "01:49:26.031", 
+          "stop_sec": 6566.032, 
+          "start": "01:48:58.728"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6566.032, 
+          "stop": "02:15:06.762", 
+          "stop_sec": 8106.762, 
+          "start": "01:49:26.031"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "02:15:06.762", 
+          "stop_sec": 8106.762, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            11.37, 
+            "LU"
+          ], 
+          "noise_level": [
+            -65.7, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -7.44, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.42, 
+            "dB"
+          ], 
+          "snr": [
+            41.27, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -11.09, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.83, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.63, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -14.71, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.3, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.65, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            8.55, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            22.54, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/31.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5750.804897959184, 
+        "filename": "31.mp3", 
+        "channels": 1, 
+        "length": 253610496, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "65.9 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "65.8 MB", 
+        "filename": "31-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:35:50.804", 
+          "stop_sec": 5750.805, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:35:50.804", 
+          "stop_sec": 5750.805, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.38, 
+            "LU"
+          ], 
+          "noise_level": [
+            -76.05, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -8.66, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -27.96, 
+            "dB"
+          ], 
+          "snr": [
+            48.09, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -13.42, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -26.14, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.4, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -14.58, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.97, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            0.1, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            10.67, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            21.07, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/38.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 2758.6351020408165, 
+        "filename": "38.mp3", 
+        "channels": 1, 
+        "length": 121655808, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "31.7 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "31.6 MB", 
+        "filename": "38-auphonic (1).mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:45:58.635", 
+          "stop_sec": 2758.635, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:45:58.635", 
+          "stop_sec": 2758.635, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            12.54, 
+            "LU"
+          ], 
+          "noise_level": [
+            -80.75, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -13.36, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -32.62, 
+            "dB"
+          ], 
+          "snr": [
+            48.13, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -21.73, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -30.02, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.77, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.07, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.5, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            6.71, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            15.83, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            26.46, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/1.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 3205.813514739229, 
+        "filename": "1.mp3", 
+        "channels": 1, 
+        "length": 141376376, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "36.8 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "36.7 MB", 
+        "filename": "1-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:53:25.813", 
+          "stop_sec": 3205.814, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:53:25.813", 
+          "stop_sec": 3205.814, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.45, 
+            "LU"
+          ], 
+          "noise_level": [
+            -50.32, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -5.67, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -17.91, 
+            "dB"
+          ], 
+          "snr": [
+            32.4, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -10.12, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -17.83, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.38, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.95, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.37, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -5.0, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            3.23, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            15.7, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/4.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5870.438526077098, 
+        "filename": "4.mp3", 
+        "channels": 1, 
+        "length": 258886339, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "67.3 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "67.2 MB", 
+        "filename": "4-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:37:50.438", 
+          "stop_sec": 5870.439, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:37:50.438", 
+          "stop_sec": 5870.439, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.03, 
+            "LU"
+          ], 
+          "noise_level": [
+            -78.14, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -11.33, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -27.1, 
+            "dB"
+          ], 
+          "snr": [
+            51.04, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -17.71, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -24.9, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.16, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.02, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.95, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            0.03, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            9.06, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            22.21, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/35.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 3198.1191836734693, 
+        "filename": "35.mp3", 
+        "channels": 1, 
+        "length": 141037056, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "36.7 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "36.6 MB", 
+        "filename": "35-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:53:18.119", 
+          "stop_sec": 3198.119, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:53:18.119", 
+          "stop_sec": 3198.119, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.43, 
+            "LU"
+          ], 
+          "noise_level": [
+            -76.58, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -9.84, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.88, 
+            "dB"
+          ], 
+          "snr": [
+            51.7, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.62, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.7, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.26, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.11, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.57, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -1.59, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            7.7, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            22.42, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/17.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 4766.098775510204, 
+        "filename": "17.mp3", 
+        "channels": 1, 
+        "length": 210184956, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "54.7 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "54.5 MB", 
+        "filename": "17-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:01:32.234", 
+          "stop_sec": 92.235, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 92.235, 
+          "stop": "00:04:03.603", 
+          "stop_sec": 243.603, 
+          "start": "00:01:32.234"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 243.603, 
+          "stop": "00:04:40.952", 
+          "stop_sec": 280.953, 
+          "start": "00:04:03.603"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 280.953, 
+          "stop": "00:09:48.326", 
+          "stop_sec": 588.326, 
+          "start": "00:04:40.952"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 588.326, 
+          "stop": "00:10:08.904", 
+          "stop_sec": 608.904, 
+          "start": "00:09:48.326"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 608.904, 
+          "stop": "00:13:08.728", 
+          "stop_sec": 788.728, 
+          "start": "00:10:08.904"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 788.728, 
+          "stop": "00:13:35.599", 
+          "stop_sec": 815.599, 
+          "start": "00:13:08.728"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 815.599, 
+          "stop": "00:36:46.786", 
+          "stop_sec": 2206.787, 
+          "start": "00:13:35.599"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2206.787, 
+          "stop": "00:37:56.147", 
+          "stop_sec": 2276.147, 
+          "start": "00:36:46.786"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2276.147, 
+          "stop": "00:38:44.883", 
+          "stop_sec": 2324.883, 
+          "start": "00:37:56.147"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2324.883, 
+          "stop": "00:40:55.466", 
+          "stop_sec": 2455.467, 
+          "start": "00:38:44.883"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2455.467, 
+          "stop": "00:41:18.610", 
+          "stop_sec": 2478.611, 
+          "start": "00:40:55.466"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2478.611, 
+          "stop": "00:41:45.544", 
+          "stop_sec": 2505.545, 
+          "start": "00:41:18.610"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2505.545, 
+          "stop": "00:45:03.120", 
+          "stop_sec": 2703.12, 
+          "start": "00:41:45.544"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2703.12, 
+          "stop": "00:49:04.175", 
+          "stop_sec": 2944.176, 
+          "start": "00:45:03.120"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2944.176, 
+          "stop": "00:49:53.534", 
+          "stop_sec": 2993.534, 
+          "start": "00:49:04.175"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2993.534, 
+          "stop": "00:51:34.023", 
+          "stop_sec": 3094.023, 
+          "start": "00:49:53.534"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3094.023, 
+          "stop": "00:52:20.221", 
+          "stop_sec": 3140.222, 
+          "start": "00:51:34.023"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3140.222, 
+          "stop": "00:54:01.808", 
+          "stop_sec": 3241.809, 
+          "start": "00:52:20.221"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3241.809, 
+          "stop": "00:58:54.464", 
+          "stop_sec": 3534.464, 
+          "start": "00:54:01.808"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3534.464, 
+          "stop": "00:59:36.656", 
+          "stop_sec": 3576.656, 
+          "start": "00:58:54.464"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3576.656, 
+          "stop": "01:00:50.491", 
+          "stop_sec": 3650.491, 
+          "start": "00:59:36.656"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3650.491, 
+          "stop": "01:01:22.439", 
+          "stop_sec": 3682.439, 
+          "start": "01:00:50.491"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3682.439, 
+          "stop": "01:02:34.301", 
+          "stop_sec": 3754.302, 
+          "start": "01:01:22.439"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3754.302, 
+          "stop": "01:03:05.061", 
+          "stop_sec": 3785.061, 
+          "start": "01:02:34.301"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3785.061, 
+          "stop": "01:05:24.944", 
+          "stop_sec": 3924.944, 
+          "start": "01:03:05.061"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3924.944, 
+          "stop": "01:05:48.628", 
+          "stop_sec": 3948.628, 
+          "start": "01:05:24.944"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3948.628, 
+          "stop": "01:06:40.155", 
+          "stop_sec": 4000.155, 
+          "start": "01:05:48.628"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4000.155, 
+          "stop": "01:07:02.399", 
+          "stop_sec": 4022.399, 
+          "start": "01:06:40.155"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4022.399, 
+          "stop": "01:10:53.778", 
+          "stop_sec": 4253.778, 
+          "start": "01:07:02.399"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4253.778, 
+          "stop": "01:11:34.430", 
+          "stop_sec": 4294.431, 
+          "start": "01:10:53.778"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4294.431, 
+          "stop": "01:12:08.773", 
+          "stop_sec": 4328.773, 
+          "start": "01:11:34.430"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4328.773, 
+          "stop": "01:12:45.375", 
+          "stop_sec": 4365.376, 
+          "start": "01:12:08.773"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4365.376, 
+          "stop": "01:14:50.080", 
+          "stop_sec": 4490.081, 
+          "start": "01:12:45.375"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4490.081, 
+          "stop": "01:15:51.483", 
+          "stop_sec": 4551.483, 
+          "start": "01:14:50.080"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4551.483, 
+          "stop": "01:16:15.536", 
+          "stop_sec": 4575.536, 
+          "start": "01:15:51.483"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4575.536, 
+          "stop": "01:16:42.254", 
+          "stop_sec": 4602.254, 
+          "start": "01:16:15.536"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4602.254, 
+          "stop": "01:18:51.262", 
+          "stop_sec": 4731.262, 
+          "start": "01:16:42.254"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4731.262, 
+          "stop": "01:19:26.098", 
+          "stop_sec": 4766.099, 
+          "start": "01:18:51.262"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:19:26.098", 
+          "stop_sec": 4766.099, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            8.85, 
+            "LU"
+          ], 
+          "noise_level": [
+            -76.56, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -11.66, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.74, 
+            "dB"
+          ], 
+          "snr": [
+            52.82, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -15.56, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -23.01, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.33, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.16, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.41, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            0.28, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.69, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            19.96, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/5.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5430.911882086168, 
+        "filename": "5.mp3", 
+        "channels": 1, 
+        "length": 239503214, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "62.3 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "62.2 MB", 
+        "filename": "5-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:30:30.911", 
+          "stop_sec": 5430.912, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:30:30.911", 
+          "stop_sec": 5430.912, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.77, 
+            "LU"
+          ], 
+          "noise_level": [
+            -84.49, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -13.33, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.94, 
+            "dB"
+          ], 
+          "snr": [
+            59.54, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -15.98, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -24.16, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.66, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.31, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.38, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -0.46, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            7.91, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            17.91, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/7.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 4453.092335600907, 
+        "filename": "7.mp3", 
+        "channels": 1, 
+        "length": 196381372, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "51.1 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "51.0 MB", 
+        "filename": "7-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:06:49.141", 
+          "stop_sec": 409.141, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 409.141, 
+          "stop": "00:07:14.743", 
+          "stop_sec": 434.743, 
+          "start": "00:06:49.141"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 434.743, 
+          "stop": "01:14:13.092", 
+          "stop_sec": 4453.092, 
+          "start": "00:07:14.743"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:14:13.092", 
+          "stop_sec": 4453.092, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.44, 
+            "LU"
+          ], 
+          "noise_level": [
+            -54.83, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -5.85, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -19.02, 
+            "dB"
+          ], 
+          "snr": [
+            35.8, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -10.42, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -18.15, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.72, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.21, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.79, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -4.71, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            3.01, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            14.77, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/22.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 1880.4053741496598, 
+        "filename": "22.mp3", 
+        "channels": 1, 
+        "length": 82925877, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "21.6 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "21.5 MB", 
+        "filename": "22-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:31:20.405", 
+          "stop_sec": 1880.405, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:31:20.405", 
+          "stop_sec": 1880.405, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.78, 
+            "LU"
+          ], 
+          "noise_level": [
+            -77.82, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -15.77, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -29.76, 
+            "dB"
+          ], 
+          "snr": [
+            48.05, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -20.43, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -28.51, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.84, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.23, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.17, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            4.64, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            13.46, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            22.09, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/30.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 8526.915918367347, 
+        "filename": "30.mp3", 
+        "channels": 1, 
+        "length": 376036992, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "97.7 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "97.6 MB", 
+        "filename": "30-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "02:22:06.915", 
+          "stop_sec": 8526.916, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "02:22:06.915", 
+          "stop_sec": 8526.916, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            11.78, 
+            "LU"
+          ], 
+          "noise_level": [
+            -74.71, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -8.24, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -26.46, 
+            "dB"
+          ], 
+          "snr": [
+            48.25, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -12.39, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -24.45, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.65, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.68, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.2, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -3.43, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            9.57, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            25.28, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/2.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5238.511428571429, 
+        "filename": "2.mp3", 
+        "channels": 1, 
+        "length": 231018354, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "60.1 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "60.0 MB", 
+        "filename": "2-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:00:22.406", 
+          "stop_sec": 22.407, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 22.407, 
+          "stop": "00:00:45.631", 
+          "stop_sec": 45.632, 
+          "start": "00:00:22.406"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 45.632, 
+          "stop": "00:01:09.243", 
+          "stop_sec": 69.244, 
+          "start": "00:00:45.631"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 69.244, 
+          "stop": "00:02:47.554", 
+          "stop_sec": 167.555, 
+          "start": "00:01:09.243"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 167.555, 
+          "stop": "00:05:04.087", 
+          "stop_sec": 304.088, 
+          "start": "00:02:47.554"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 304.088, 
+          "stop": "00:06:22.441", 
+          "stop_sec": 382.442, 
+          "start": "00:05:04.087"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 382.442, 
+          "stop": "00:07:00.888", 
+          "stop_sec": 420.889, 
+          "start": "00:06:22.441"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 420.889, 
+          "stop": "00:09:05.062", 
+          "stop_sec": 545.062, 
+          "start": "00:07:00.888"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 545.062, 
+          "stop": "00:10:20.922", 
+          "stop_sec": 620.922, 
+          "start": "00:09:05.062"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 620.922, 
+          "stop": "00:12:12.835", 
+          "stop_sec": 732.835, 
+          "start": "00:10:20.922"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 732.835, 
+          "stop": "00:17:44.648", 
+          "stop_sec": 1064.649, 
+          "start": "00:12:12.835"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 1064.649, 
+          "stop": "00:23:25.464", 
+          "stop_sec": 1405.465, 
+          "start": "00:17:44.648"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 1405.465, 
+          "stop": "00:29:56.232", 
+          "stop_sec": 1796.233, 
+          "start": "00:23:25.464"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 1796.233, 
+          "stop": "00:31:06.483", 
+          "stop_sec": 1866.484, 
+          "start": "00:29:56.232"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 1866.484, 
+          "stop": "00:34:16.867", 
+          "stop_sec": 2056.867, 
+          "start": "00:31:06.483"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2056.867, 
+          "stop": "00:35:55.493", 
+          "stop_sec": 2155.493, 
+          "start": "00:34:16.867"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2155.493, 
+          "stop": "00:37:06.932", 
+          "stop_sec": 2226.932, 
+          "start": "00:35:55.493"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2226.932, 
+          "stop": "00:38:02.096", 
+          "stop_sec": 2282.097, 
+          "start": "00:37:06.932"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2282.097, 
+          "stop": "00:39:22.476", 
+          "stop_sec": 2362.476, 
+          "start": "00:38:02.096"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2362.476, 
+          "stop": "00:40:19.188", 
+          "stop_sec": 2419.189, 
+          "start": "00:39:22.476"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2419.189, 
+          "stop": "00:41:13.668", 
+          "stop_sec": 2473.669, 
+          "start": "00:40:19.188"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2473.669, 
+          "stop": "00:43:19.813", 
+          "stop_sec": 2599.814, 
+          "start": "00:41:13.668"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2599.814, 
+          "stop": "00:43:57.163", 
+          "stop_sec": 2637.163, 
+          "start": "00:43:19.813"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 2637.163, 
+          "stop": "00:52:12.920", 
+          "stop_sec": 3132.921, 
+          "start": "00:43:57.163"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3132.921, 
+          "stop": "00:53:43.616", 
+          "stop_sec": 3223.616, 
+          "start": "00:52:12.920"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3223.616, 
+          "stop": "00:54:12.728", 
+          "stop_sec": 3252.729, 
+          "start": "00:53:43.616"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3252.729, 
+          "stop": "00:56:26.201", 
+          "stop_sec": 3386.202, 
+          "start": "00:54:12.728"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3386.202, 
+          "stop": "00:58:10.579", 
+          "stop_sec": 3490.579, 
+          "start": "00:56:26.201"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3490.579, 
+          "stop": "01:02:05.828", 
+          "stop_sec": 3725.828, 
+          "start": "00:58:10.579"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3725.828, 
+          "stop": "01:04:28.753", 
+          "stop_sec": 3868.754, 
+          "start": "01:02:05.828"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3868.754, 
+          "stop": "01:04:52.734", 
+          "stop_sec": 3892.735, 
+          "start": "01:04:28.753"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 3892.735, 
+          "stop": "01:07:08.070", 
+          "stop_sec": 4028.07, 
+          "start": "01:04:52.734"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 4028.07, 
+          "stop": "01:08:09.554", 
+          "stop_sec": 4089.554, 
+          "start": "01:07:08.070"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 4089.554, 
+          "stop": "01:08:59.533", 
+          "stop_sec": 4139.534, 
+          "start": "01:08:09.554"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 4139.534, 
+          "stop": "01:09:46.172", 
+          "stop_sec": 4186.173, 
+          "start": "01:08:59.533"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 4186.173, 
+          "stop": "01:13:44.455", 
+          "stop_sec": 4424.456, 
+          "start": "01:09:46.172"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 4424.456, 
+          "stop": "01:14:14.783", 
+          "stop_sec": 4454.783, 
+          "start": "01:13:44.455"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 4454.783, 
+          "stop": "01:18:00.058", 
+          "stop_sec": 4680.058, 
+          "start": "01:14:14.783"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 4680.058, 
+          "stop": "01:26:33.064", 
+          "stop_sec": 5193.064, 
+          "start": "01:18:00.058"
+        }, 
+        {
+          "dehum": 60, 
+          "denoise": -100, 
+          "start_sec": 5193.064, 
+          "stop": "01:27:18.511", 
+          "stop_sec": 5238.511, 
+          "start": "01:26:33.064"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:27:18.511", 
+          "stop_sec": 5238.511, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            11.68, 
+            "LU"
+          ], 
+          "noise_level": [
+            -63.59, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -8.69, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -21.72, 
+            "dB"
+          ], 
+          "snr": [
+            41.87, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -13.11, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -20.03, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            6.17, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.77, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.8, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.88, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            5.84, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            23.12, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/9.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5960.1062131519275, 
+        "filename": "9.mp3", 
+        "channels": 1, 
+        "length": 262840684, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "68.3 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "68.2 MB", 
+        "filename": "9-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:39:20.106", 
+          "stop_sec": 5960.106, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:39:20.106", 
+          "stop_sec": 5960.106, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            12.9, 
+            "LU"
+          ], 
+          "noise_level": [
+            -71.72, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -10.67, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -28.71, 
+            "dB"
+          ], 
+          "snr": [
+            43.01, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.91, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -26.37, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.21, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.26, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.3, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            0.42, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            12.06, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            27.61, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/19.5.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 2683.388820861678, 
+        "filename": "19.5.mp3", 
+        "channels": 1, 
+        "length": 118337447, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "30.8 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "30.7 MB", 
+        "filename": "19.5-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:44:43.388", 
+          "stop_sec": 2683.389, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:44:43.388", 
+          "stop_sec": 2683.389, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.87, 
+            "LU"
+          ], 
+          "noise_level": [
+            -63.14, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -12.49, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -22.48, 
+            "dB"
+          ], 
+          "snr": [
+            40.65, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -15.62, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.41, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.6, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.85, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.64, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -0.56, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.62, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            22.25, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/19.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 7296.662335600907, 
+        "filename": "19.mp3", 
+        "channels": 1, 
+        "length": 321782809, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "83.6 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "83.5 MB", 
+        "filename": "19-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:02:49.229", 
+          "stop_sec": 169.229, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": false, 
+          "start_sec": 169.229, 
+          "stop": "00:03:13.939", 
+          "stop_sec": 193.94, 
+          "start": "00:02:49.229"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 193.94, 
+          "stop": "00:21:28.537", 
+          "stop_sec": 1288.538, 
+          "start": "00:03:13.939"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1288.538, 
+          "stop": "00:22:01.061", 
+          "stop_sec": 1321.061, 
+          "start": "00:21:28.537"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1321.061, 
+          "stop": "00:23:24.762", 
+          "stop_sec": 1404.763, 
+          "start": "00:22:01.061"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1404.763, 
+          "stop": "00:23:58.007", 
+          "stop_sec": 1438.007, 
+          "start": "00:23:24.762"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1438.007, 
+          "stop": "00:40:51.325", 
+          "stop_sec": 2451.326, 
+          "start": "00:23:58.007"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2451.326, 
+          "stop": "00:41:23.778", 
+          "stop_sec": 2483.778, 
+          "start": "00:40:51.325"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2483.778, 
+          "stop": "00:45:57.168", 
+          "stop_sec": 2757.169, 
+          "start": "00:41:23.778"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2757.169, 
+          "stop": "00:46:17.378", 
+          "stop_sec": 2777.378, 
+          "start": "00:45:57.168"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 2777.378, 
+          "stop": "01:00:13.861", 
+          "stop_sec": 3613.861, 
+          "start": "00:46:17.378"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3613.861, 
+          "stop": "01:00:34.800", 
+          "stop_sec": 3634.8, 
+          "start": "01:00:13.861"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3634.8, 
+          "stop": "01:02:33.779", 
+          "stop_sec": 3753.78, 
+          "start": "01:00:34.800"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3753.78, 
+          "stop": "01:03:45.408", 
+          "stop_sec": 3825.409, 
+          "start": "01:02:33.779"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3825.409, 
+          "stop": "01:08:11.210", 
+          "stop_sec": 4091.211, 
+          "start": "01:03:45.408"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4091.211, 
+          "stop": "01:08:42.582", 
+          "stop_sec": 4122.583, 
+          "start": "01:08:11.210"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4122.583, 
+          "stop": "01:18:21.483", 
+          "stop_sec": 4701.484, 
+          "start": "01:08:42.582"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4701.484, 
+          "stop": "01:19:38.720", 
+          "stop_sec": 4778.72, 
+          "start": "01:18:21.483"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4778.72, 
+          "stop": "01:23:36.219", 
+          "stop_sec": 5016.22, 
+          "start": "01:19:38.720"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5016.22, 
+          "stop": "01:24:23.246", 
+          "stop_sec": 5063.247, 
+          "start": "01:23:36.219"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5063.247, 
+          "stop": "01:25:45.011", 
+          "stop_sec": 5145.011, 
+          "start": "01:24:23.246"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5145.011, 
+          "stop": "01:26:19.399", 
+          "stop_sec": 5179.4, 
+          "start": "01:25:45.011"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5179.4, 
+          "stop": "01:27:20.874", 
+          "stop_sec": 5240.874, 
+          "start": "01:26:19.399"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5240.874, 
+          "stop": "01:27:51.436", 
+          "stop_sec": 5271.436, 
+          "start": "01:27:20.874"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5271.436, 
+          "stop": "01:34:13.642", 
+          "stop_sec": 5653.642, 
+          "start": "01:27:51.436"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5653.642, 
+          "stop": "01:34:48.399", 
+          "stop_sec": 5688.4, 
+          "start": "01:34:13.642"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5688.4, 
+          "stop": "01:37:26.357", 
+          "stop_sec": 5846.358, 
+          "start": "01:34:48.399"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5846.358, 
+          "stop": "01:38:05.488", 
+          "stop_sec": 5885.489, 
+          "start": "01:37:26.357"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 5885.489, 
+          "stop": "01:41:14.098", 
+          "stop_sec": 6074.099, 
+          "start": "01:38:05.488"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6074.099, 
+          "stop": "01:43:45.611", 
+          "stop_sec": 6225.611, 
+          "start": "01:41:14.098"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6225.611, 
+          "stop": "01:51:28.026", 
+          "stop_sec": 6688.026, 
+          "start": "01:43:45.611"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6688.026, 
+          "stop": "01:52:05.870", 
+          "stop_sec": 6725.87, 
+          "start": "01:51:28.026"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 6725.87, 
+          "stop": "02:01:36.662", 
+          "stop_sec": 7296.662, 
+          "start": "01:52:05.870"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "02:01:36.662", 
+          "stop_sec": 7296.662, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.91, 
+            "LU"
+          ], 
+          "noise_level": [
+            -67.01, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -9.25, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.47, 
+            "dB"
+          ], 
+          "snr": [
+            43.55, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.18, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -21.94, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.94, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.25, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.99, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -1.9, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.7, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            18.56, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/16.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 4919.907505668934, 
+        "filename": "16.mp3", 
+        "channels": 1, 
+        "length": 216967921, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "56.4 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "56.3 MB", 
+        "filename": "16-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": 50, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:21:59.907", 
+          "stop_sec": 4919.908, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:21:59.907", 
+          "stop_sec": 4919.908, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            7.67, 
+            "LU"
+          ], 
+          "noise_level": [
+            -67.04, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -14.4, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.13, 
+            "dB"
+          ], 
+          "snr": [
+            42.91, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -18.99, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -24.2, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.22, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.12, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.83, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            2.61, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            7.88, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            24.34, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/11.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5715.685850340136, 
+        "filename": "11.mp3", 
+        "channels": 1, 
+        "length": 252061746, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "65.5 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "65.4 MB", 
+        "filename": "11-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:35:15.685", 
+          "stop_sec": 5715.686, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:35:15.685", 
+          "stop_sec": 5715.686, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            8.59, 
+            "LU"
+          ], 
+          "noise_level": [
+            -60.28, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -7.09, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -18.94, 
+            "dB"
+          ], 
+          "snr": [
+            41.34, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -13.21, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -18.9, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.18, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.57, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.99, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.5, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            2.62, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            15.99, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/21.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 6806.687346938776, 
+        "filename": "21.mp3", 
+        "channels": 1, 
+        "length": 300174912, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "78.0 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "77.9 MB", 
+        "filename": "21-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:53:26.687", 
+          "stop_sec": 6806.687, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:53:26.687", 
+          "stop_sec": 6806.687, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.97, 
+            "LU"
+          ], 
+          "noise_level": [
+            -70.19, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -7.84, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -22.75, 
+            "dB"
+          ], 
+          "snr": [
+            47.44, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -13.16, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.1, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.21, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.13, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.24, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.35, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.65, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            19.16, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/13.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 4220.973469387755, 
+        "filename": "13.mp3", 
+        "channels": 1, 
+        "length": 186144930, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "48.4 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "48.3 MB", 
+        "filename": "13-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:10:20.973", 
+          "stop_sec": 4220.973, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:10:20.973", 
+          "stop_sec": 4220.973, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.8, 
+            "LU"
+          ], 
+          "noise_level": [
+            -67.22, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -12.56, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -20.88, 
+            "dB"
+          ], 
+          "snr": [
+            46.33, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -15.62, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -20.61, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.04, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.42, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.57, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -0.7, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            4.33, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            22.2, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/23.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 6021.328979591836, 
+        "filename": "23.mp3", 
+        "channels": 1, 
+        "length": 265540608, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "69.0 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "68.9 MB", 
+        "filename": "23-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:40:21.328", 
+          "stop_sec": 6021.329, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:40:21.328", 
+          "stop_sec": 6021.329, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            11.07, 
+            "LU"
+          ], 
+          "noise_level": [
+            -73.48, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -15.78, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -32.11, 
+            "dB"
+          ], 
+          "snr": [
+            41.38, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -21.32, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -30.55, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.13, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.95, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.09, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            4.57, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            15.79, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            27.76, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/37.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 8125.936326530612, 
+        "filename": "37.mp3", 
+        "channels": 1, 
+        "length": 358353792, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "93.1 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "93.0 MB", 
+        "filename": "37-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "02:15:25.936", 
+          "stop_sec": 8125.936, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "02:15:25.936", 
+          "stop_sec": 8125.936, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.02, 
+            "LU"
+          ], 
+          "noise_level": [
+            -77.28, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -10.52, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -22.76, 
+            "dB"
+          ], 
+          "snr": [
+            54.52, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -14.13, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -21.9, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.35, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.02, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.22, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -1.77, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.11, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            17.58, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/32.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 10231.379591836734, 
+        "filename": "32.mp3", 
+        "channels": 1, 
+        "length": 451203840, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "117.3 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "117.1 MB", 
+        "filename": "32-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "02:50:31.379", 
+          "stop_sec": 10231.38, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "02:50:31.379", 
+          "stop_sec": 10231.38, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.03, 
+            "LU"
+          ], 
+          "noise_level": [
+            -72.26, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -5.98, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.43, 
+            "dB"
+          ], 
+          "snr": [
+            47.82, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -11.57, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -22.91, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.58, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.3, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.81, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -1.85, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.68, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            19.25, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/24.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 8584.515918367348, 
+        "filename": "24.mp3", 
+        "channels": 1, 
+        "length": 378577152, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "98.4 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "98.2 MB", 
+        "filename": "24-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:06:49.121", 
+          "stop_sec": 4009.122, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": false, 
+          "start_sec": 4009.122, 
+          "stop": "01:07:29.963", 
+          "stop_sec": 4049.963, 
+          "start": "01:06:49.121"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4049.963, 
+          "stop": "02:23:04.515", 
+          "stop_sec": 8584.516, 
+          "start": "01:07:29.963"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "02:23:04.515", 
+          "stop_sec": 8584.516, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            11.66, 
+            "LU"
+          ], 
+          "noise_level": [
+            -78.77, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -15.09, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -34.57, 
+            "dB"
+          ], 
+          "snr": [
+            44.2, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -21.65, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -32.3, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.39, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.86, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.11, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            6.06, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            17.98, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            31.74, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/29.5.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 887.0791836734694, 
+        "filename": "29.5.mp3", 
+        "channels": 2, 
+        "length": 39120192, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "10.2 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "10.2 MB", 
+        "filename": "29.5-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -6, 
+          "start_sec": 0.0, 
+          "stop": "00:14:47.079", 
+          "stop_sec": 887.079, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:14:47.079", 
+          "stop_sec": 887.079, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            18.67, 
+            "LU"
+          ], 
+          "noise_level": [
+            -38.54, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -1.68, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -22.38, 
+            "dB"
+          ], 
+          "snr": [
+            16.17, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -7.0, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -19.59, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            7.7, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -13.65, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.23, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -5.81, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            8.71, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            19.87, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/26.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 6668.216507936508, 
+        "filename": "26.mp3", 
+        "channels": 1, 
+        "length": 294068348, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "76.4 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "76.3 MB", 
+        "filename": "26-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:00:41.983", 
+          "stop_sec": 3641.984, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3641.984, 
+          "stop": "01:01:14.202", 
+          "stop_sec": 3674.202, 
+          "start": "01:00:41.983"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3674.202, 
+          "stop": "01:03:18.834", 
+          "stop_sec": 3798.835, 
+          "start": "01:01:14.202"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3798.835, 
+          "stop": "01:04:10.407", 
+          "stop_sec": 3850.407, 
+          "start": "01:03:18.834"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3850.407, 
+          "stop": "01:51:08.216", 
+          "stop_sec": 6668.217, 
+          "start": "01:04:10.407"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:51:08.216", 
+          "stop_sec": 6668.217, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            8.32, 
+            "LU"
+          ], 
+          "noise_level": [
+            -76.95, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -8.39, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -22.77, 
+            "dB"
+          ], 
+          "snr": [
+            54.18, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -12.89, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -21.97, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            3.74, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.3, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.71, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -3.5, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            5.82, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            15.16, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/14.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 3637.2703628117915, 
+        "filename": "14.mp3", 
+        "channels": 1, 
+        "length": 160403623, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "41.7 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "41.6 MB", 
+        "filename": "14-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:00:37.270", 
+          "stop_sec": 3637.27, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:00:37.270", 
+          "stop_sec": 3637.27, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            7.36, 
+            "LU"
+          ], 
+          "noise_level": [
+            -65.25, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -16.14, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -26.46, 
+            "dB"
+          ], 
+          "snr": [
+            38.8, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -20.9, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -26.68, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            4.32, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.9, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.47, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            4.67, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            9.64, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            19.65, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/15.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5106.420612244898, 
+        "filename": "15.mp3", 
+        "channels": 1, 
+        "length": 225193149, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "58.6 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "58.4 MB", 
+        "filename": "15-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": 50, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:25:06.420", 
+          "stop_sec": 5106.421, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:25:06.420", 
+          "stop_sec": 5106.421, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.06, 
+            "LU"
+          ], 
+          "noise_level": [
+            -63.09, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -14.16, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.51, 
+            "dB"
+          ], 
+          "snr": [
+            38.59, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -17.73, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -24.41, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.05, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.68, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -11.95, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            3.02, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            8.44, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            21.25, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/10.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 6915.198185941043, 
+        "filename": "10.mp3", 
+        "channels": 1, 
+        "length": 304960240, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "79.3 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "79.1 MB", 
+        "filename": "10-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:55:15.198", 
+          "stop_sec": 6915.198, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:55:15.198", 
+          "stop_sec": 6915.198, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            12.79, 
+            "LU"
+          ], 
+          "noise_level": [
+            -63.24, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -6.72, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -23.14, 
+            "dB"
+          ], 
+          "snr": [
+            40.1, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -13.53, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -20.94, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.39, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.75, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -10.91, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.36, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            6.8, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            25.22, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/6.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 3133.1019274376417, 
+        "filename": "6.mp3", 
+        "channels": 1, 
+        "length": 138169795, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "35.9 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "35.9 MB", 
+        "filename": "6-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:52:13.101", 
+          "stop_sec": 3133.102, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "00:52:13.101", 
+          "stop_sec": 3133.102, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            10.29, 
+            "LU"
+          ], 
+          "noise_level": [
+            -65.74, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -5.77, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -20.16, 
+            "dB"
+          ], 
+          "snr": [
+            45.58, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -11.13, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -19.35, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.31, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -16.61, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.33, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -3.77, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            3.71, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            16.06, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/3.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 5114.151360544218, 
+        "filename": "3.mp3", 
+        "channels": 1, 
+        "length": 225534075, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "58.6 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "58.5 MB", 
+        "filename": "3-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "00:06:04.968", 
+          "stop_sec": 364.968, 
+          "start": "00:00:00.000"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 364.968, 
+          "stop": "00:07:25.752", 
+          "stop_sec": 445.753, 
+          "start": "00:06:04.968"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 445.753, 
+          "stop": "00:16:12.756", 
+          "stop_sec": 972.756, 
+          "start": "00:07:25.752"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 972.756, 
+          "stop": "00:16:46.126", 
+          "stop_sec": 1006.127, 
+          "start": "00:16:12.756"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1006.127, 
+          "stop": "00:23:35.222", 
+          "stop_sec": 1415.222, 
+          "start": "00:16:46.126"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1415.222, 
+          "stop": "00:24:02.246", 
+          "stop_sec": 1442.246, 
+          "start": "00:23:35.222"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1442.246, 
+          "stop": "00:25:24.390", 
+          "stop_sec": 1524.39, 
+          "start": "00:24:02.246"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1524.39, 
+          "stop": "00:26:08.472", 
+          "stop_sec": 1568.472, 
+          "start": "00:25:24.390"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1568.472, 
+          "stop": "00:28:28.562", 
+          "stop_sec": 1708.562, 
+          "start": "00:26:08.472"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1708.562, 
+          "stop": "00:31:12.785", 
+          "stop_sec": 1872.785, 
+          "start": "00:28:28.562"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 1872.785, 
+          "stop": "00:52:53.925", 
+          "stop_sec": 3173.925, 
+          "start": "00:31:12.785"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3173.925, 
+          "stop": "00:53:48.207", 
+          "stop_sec": 3228.207, 
+          "start": "00:52:53.925"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3228.207, 
+          "stop": "01:06:38.165", 
+          "stop_sec": 3998.166, 
+          "start": "00:53:48.207"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 3998.166, 
+          "stop": "01:07:07.926", 
+          "stop_sec": 4027.926, 
+          "start": "01:06:38.165"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4027.926, 
+          "stop": "01:12:03.714", 
+          "stop_sec": 4323.714, 
+          "start": "01:07:07.926"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4323.714, 
+          "stop": "01:13:14.227", 
+          "stop_sec": 4394.227, 
+          "start": "01:12:03.714"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4394.227, 
+          "stop": "01:22:57.070", 
+          "stop_sec": 4977.07, 
+          "start": "01:13:14.227"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4977.07, 
+          "stop": "01:23:16.046", 
+          "stop_sec": 4996.047, 
+          "start": "01:22:57.070"
+        }, 
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 4996.047, 
+          "stop": "01:25:14.151", 
+          "stop_sec": 5114.151, 
+          "start": "01:23:16.046"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:25:14.151", 
+          "stop_sec": 5114.151, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            9.54, 
+            "LU"
+          ], 
+          "noise_level": [
+            -82.75, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -6.26, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -16.83, 
+            "dB"
+          ], 
+          "snr": [
+            65.92, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -9.61, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -15.46, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.21, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.68, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.11, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -6.98, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            -0.45, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            10.37, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }, 
+  "/Users/oka/Nextcloud/podcast/finished_audio/27.mp3": {
+    "files": {
+      "input": {
+        "length_sec": 4021.4987755102043, 
+        "filename": "27.mp3", 
+        "channels": 1, 
+        "length": 177348096, 
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "46.1 MB"
+      }, 
+      "output": {
+        "folder": "/Users/oka/Nextcloud/podcast/finished_audio", 
+        "size": "46.0 MB", 
+        "filename": "27-auphonic.mp3"
+      }
+    }, 
+    "statistics": {
+      "noise_hum_reduction": [
+        {
+          "dehum": false, 
+          "denoise": -100, 
+          "start_sec": 0.0, 
+          "stop": "01:07:01.498", 
+          "stop_sec": 4021.499, 
+          "start": "00:00:00.000"
+        }
+      ], 
+      "music_speech": [
+        {
+          "start": "00:00:00.000", 
+          "start_sec": 0.0, 
+          "stop": "01:07:01.498", 
+          "stop_sec": 4021.499, 
+          "label": "speech"
+        }
+      ], 
+      "levels": {
+        "input": {
+          "lra": [
+            12.8, 
+            "LU"
+          ], 
+          "noise_level": [
+            -72.81, 
+            "dB"
+          ], 
+          "max_momentary": [
+            -7.39, 
+            "LUFS"
+          ], 
+          "signal_level": [
+            -24.15, 
+            "dB"
+          ], 
+          "snr": [
+            48.65, 
+            "dB"
+          ], 
+          "max_shortterm": [
+            -11.8, 
+            "LUFS"
+          ], 
+          "loudness": [
+            -21.97, 
+            "LUFS"
+          ]
+        }, 
+        "output": {
+          "lra": [
+            5.42, 
+            "LU"
+          ], 
+          "max_shortterm": [
+            -15.89, 
+            "LUFS"
+          ], 
+          "max_momentary": [
+            -12.36, 
+            "LUFS"
+          ], 
+          "gain_min": [
+            -2.4, 
+            "dB"
+          ], 
+          "peak": [
+            -1.0, 
+            "dBTP"
+          ], 
+          "gain_mean": [
+            7.25, 
+            "dB"
+          ], 
+          "loudness": [
+            -19.0, 
+            "LUFS"
+          ], 
+          "gain_max": [
+            21.57, 
+            "dB"
+          ]
+        }
+      }
+    }
+  }
+}

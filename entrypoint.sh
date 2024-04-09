@@ -2,11 +2,11 @@
 
 cat CHANGED_FILES
 
-# URL 短縮
-for md in $(cat CHANGED_FILES); do
-    python3 scripts/shorten_urls_md.py $md i8n $FDL_KEY > tmp.md
-    mv tmp.md $md.tmp
-done
+# URL 短縮 (Firebase の URL 短縮が終わるので無効化)
+#for md in $(cat CHANGED_FILES); do
+#    python3 scripts/shorten_urls_md.py $md i8n $FDL_KEY > tmp.md
+#    mv tmp.md $md.tmp
+#done
 
 # Markdown to HTML
 for md in $(cat CHANGED_FILES); do

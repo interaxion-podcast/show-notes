@@ -25,7 +25,7 @@ echo "---" > $yml
 
 for md in $(ls -1 md/*.md)
 do
-    epnum=$(echo $md | head -1 | sed --regex 's/.*ep(\d+|\d+\.\d)\.md/\1/')
+    epnum=$(echo $md | head -1 | sed --regex 's/.*ep(\d+|\d+\.\d+)\.md/\1/')
     echo "episode: $epnum" >> $yml
     title=$(cat $md | head -1 | sed -n --regex 's/.*[Ee]p\.[\s ](\d+|\d+\.\d)[\s ](.*)/\2/p')
     echo "title: $title" >> $yml

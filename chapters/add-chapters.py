@@ -16,7 +16,7 @@ if len(sys.argv) != 2:
 mp3file = sys.argv[1]
 
 def get_episode():
-  m = re.match(r"(?:^|.*/)(\d+|\d+.\d).mp3$", mp3file)
+  m = re.match(r"(?:^|.*/)(\d+|\d+.\d+).mp3$", mp3file)
   if m is None:
     print("Usage: %s path/to.mp3" % sys.argv[0])
     exit(1)

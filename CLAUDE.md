@@ -97,6 +97,16 @@ md を追加したコミットは push 時の先頭に置くか、後続コミ�
 以前は `ad-m/github-push-action` が常に `master` へ push しようとして
 `! [rejected] HEAD -> master` で必ず失敗していた。
 
+## MP3 のチャプター付け
+
+`chapters/add-chapters.sh` (既定で最新1件、`--all` で全件)。音声の場所は `AUDIO_DIR`、
+既定はリポジトリと同じ階層の `finished_audio`。詳細は `chapters/README.md`。
+
+`add-chapters.py` は `episodes.yml` と `cover_art.jpg` を**相対パスで開く**ので、
+直接呼ぶ場合は `chapters/` に `cd` してから。ラッパーはこれを吸収している。
+
+`episodes.yml` は Actions 生成物なので、新しい回を処理する前に master を pull すること。
+
 ## その他
 
 - URL 短縮 (Firebase Dynamic Links) はサービス終了に伴い `entrypoint.sh` で無効化済み

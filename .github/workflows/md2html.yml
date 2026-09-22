@@ -13,8 +13,10 @@ jobs:
       - name: create CHANGED_FILES list
         # https://stackoverflow.com/a/57862507/11480802
         # https://docs.github.com/ja/actions/reference/environment-variables
-        # .md の変更がないとこの行で失敗するので注意
-        run: git diff --name-only ${GITHUB_SHA}^..$GITHUB_SHA | grep -e ".*\.md" > CHANGED_FILES
+        # md/ep*.md の変更がないとこの行で失敗するので注意
+        # 対象を md/ep*.md に限定しないと、CLAUDE.md や README.md だけの変更で
+        # entrypoint.sh が md/epREADME.md.md.tmp を探しに行き pandoc が落ちる
+        run: git diff --name-only ${GITHUB_SHA}^..$GITHUB_SHA | grep -e "^md/ep.*\.md$" > CHANGED_FILES
       - uses: ./
         env:
           FDL_KEY: ${{ secrets.FDL_KEY }}

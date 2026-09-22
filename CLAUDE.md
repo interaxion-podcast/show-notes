@@ -79,7 +79,26 @@ PY
 なお `html/ep60.html` / `ep62.html` / `ep65.html` は対応する md と内容がずれている
 （md 更新後に再生成されていない）。手元での再現結果が合わなくても、それが原因のことがある。
 
+## ワークフロー (md2html) の癖
+
+実際に踏んだので記録しておく。
+
+**feature ブランチでは最後に必ず失敗する。** 最後の `ad-m/github-push-action` に `branch` の
+指定が無く、常に `master` へ push しようとするため。`master` 以外で走らせると
+`! [rejected] HEAD -> master` で終わる。pandoc 変換や `episodes.yml` の更新自体は
+その手前まで正常に終わっているので、**ログの前半を見て判断すること**。
+`html/ep<N>.html` がブランチ上に出来ないのはこのためで、master にマージされた時点で生成される。
+
+**CHANGED_FILES は tip コミットの差分しか見ない。** `git diff ${GITHUB_SHA}^..${GITHUB_SHA}`
+なので、`md/ep<N>.md` を最後のコミットに含めないと変換されない。ep68 追加の後に
+CLAUDE.md のコミットを重ねたせいで、ep68 の HTML が生成されずに終わった実例がある。
+**md を追加したコミットは push 時の先頭に置く**か、後続コミットを重ねないこと。
+
+対象の grep は `^md/ep.*\.md$` に限定してある。以前は `.*\.md` だったため、
+`CLAUDE.md` や `README.md` だけを変更すると `md/epREADME.md.md.tmp` を探しに行って
+pandoc が落ちていた。
+
 ## その他
 
 - URL 短縮 (Firebase Dynamic Links) はサービス終了に伴い `entrypoint.sh` で無効化済み
-- ワークフローは push 時に走るが、`.md` の変更が1つも無いと CHANGED_FILES 作成の行で失敗する
+- `md/ep*.md` の変更が1つも無い push では CHANGED_FILES 作成の行で失敗する (grep が空振りする)

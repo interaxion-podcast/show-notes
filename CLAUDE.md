@@ -81,24 +81,25 @@ PY
 
 ## ワークフロー (md2html) の癖
 
-実際に踏んだので記録しておく。
-
-**feature ブランチでは最後に必ず失敗する。** 最後の `ad-m/github-push-action` に `branch` の
-指定が無く、常に `master` へ push しようとするため。`master` 以外で走らせると
-`! [rejected] HEAD -> master` で終わる。pandoc 変換や `episodes.yml` の更新自体は
-その手前まで正常に終わっているので、**ログの前半を見て判断すること**。
-`html/ep<N>.html` がブランチ上に出来ないのはこのためで、master にマージされた時点で生成される。
-
 **CHANGED_FILES は tip コミットの差分しか見ない。** `git diff ${GITHUB_SHA}^..${GITHUB_SHA}`
-なので、`md/ep<N>.md` を最後のコミットに含めないと変換されない。ep68 追加の後に
+なので、`md/ep<N>.md` を**最後のコミットに含めないと変換されない**。ep68 追加の後に
 CLAUDE.md のコミットを重ねたせいで、ep68 の HTML が生成されずに終わった実例がある。
-**md を追加したコミットは push 時の先頭に置く**か、後続コミットを重ねないこと。
+md を追加したコミットは push 時の先頭に置くか、後続コミットを重ねないこと。
+(マージコミットは第一親との差分になるので、master へマージした時点で拾われる)
 
-対象の grep は `^md/ep.*\.md$` に限定してある。以前は `.*\.md` だったため、
-`CLAUDE.md` や `README.md` だけを変更すると `md/epREADME.md.md.tmp` を探しに行って
-pandoc が落ちていた。
+変換対象の grep は `^md/ep.*\.md$`。以前は `.*\.md` と緩く、`CLAUDE.md` や `README.md`
+だけを変更すると `md/epREADME.md.md.tmp` を探しに行って pandoc が落ちていた (run #320)。
+
+`md/ep*.md` の変更が無い push では、変換とコミットをスキップして正常終了する。
+以前はこの場合 grep が空振りしてジョブごと失敗していた (run #313/#314/#316/#322)。
+
+生成物は `github.ref_name` へ push するので、feature ブランチでも完走する。
+以前は `ad-m/github-push-action` が常に `master` へ push しようとして
+`! [rejected] HEAD -> master` で必ず失敗していた。
 
 ## その他
 
 - URL 短縮 (Firebase Dynamic Links) はサービス終了に伴い `entrypoint.sh` で無効化済み
-- `md/ep*.md` の変更が1つも無い push では CHANGED_FILES 作成の行で失敗する (grep が空振りする)
+- Docker イメージは `pandoc/latex:2.6` (Alpine 3.9、EOL 済み) のまま。今は動いているが、
+  Alpine のミラーが消えた時点で壊れる。その際は runner に pandoc を直接入れる形へ移行する。
+  その場合も **`--wrap=none` を必ず付ける**こと (付けないと既存の出力と数十文字ずれる)

@@ -6,29 +6,43 @@ jobs:
   convert_via_pandoc:
     name: Convert via Pandoc
     runs-on: ubuntu-24.04
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2
       - name: create CHANGED_FILES list
+        id: changed
         # https://stackoverflow.com/a/57862507/11480802
         # https://docs.github.com/ja/actions/reference/environment-variables
-        # md/ep*.md の変更がないとこの行で失敗するので注意
         # 対象を md/ep*.md に限定しないと、CLAUDE.md や README.md だけの変更で
         # entrypoint.sh が md/epREADME.md.md.tmp を探しに行き pandoc が落ちる
-        run: git diff --name-only ${GITHUB_SHA}^..$GITHUB_SHA | grep -e "^md/ep.*\.md$" > CHANGED_FILES
+        run: |
+          git diff --name-only "${GITHUB_SHA}^..${GITHUB_SHA}" \
+            | grep -e "^md/ep.*\.md$" > CHANGED_FILES || true
+          if [ -s CHANGED_FILES ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            cat CHANGED_FILES
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            echo "md/ep*.md の変更が無いので変換をスキップします"
+          fi
       - uses: ./
+        if: steps.changed.outputs.found == 'true'
         env:
           FDL_KEY: ${{ secrets.FDL_KEY }}
-      - name: Commit files
+      - name: Commit and push
+        if: steps.changed.outputs.found == 'true'
+        env:
+          BRANCH: ${{ github.ref_name }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add html/*.html
-          git add md/*.md
-          git add chapters/episodes.yml
+          git add html/*.html md/*.md chapters/episodes.yml
+          if git diff --cached --quiet; then
+            echo "コミットする変更が無いので終了します"
+            exit 0
+          fi
           git commit -m "update html by GitHub Action"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push origin "HEAD:$BRANCH"

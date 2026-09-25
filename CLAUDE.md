@@ -79,7 +79,37 @@ PY
 なお `html/ep60.html` / `ep62.html` / `ep65.html` は対応する md と内容がずれている
 （md 更新後に再生成されていない）。手元での再現結果が合わなくても、それが原因のことがある。
 
+## ワークフロー (md2html) の癖
+
+**CHANGED_FILES は tip コミットの差分しか見ない。** `git diff ${GITHUB_SHA}^..${GITHUB_SHA}`
+なので、`md/ep<N>.md` を**最後のコミットに含めないと変換されない**。ep68 追加の後に
+CLAUDE.md のコミットを重ねたせいで、ep68 の HTML が生成されずに終わった実例がある。
+md を追加したコミットは push 時の先頭に置くか、後続コミットを重ねないこと。
+(マージコミットは第一親との差分になるので、master へマージした時点で拾われる)
+
+変換対象の grep は `^md/ep.*\.md$`。以前は `.*\.md` と緩く、`CLAUDE.md` や `README.md`
+だけを変更すると `md/epREADME.md.md.tmp` を探しに行って pandoc が落ちていた (run #320)。
+
+`md/ep*.md` の変更が無い push では、変換とコミットをスキップして正常終了する。
+以前はこの場合 grep が空振りしてジョブごと失敗していた (run #313/#314/#316/#322)。
+
+生成物は `github.ref_name` へ push するので、feature ブランチでも完走する。
+以前は `ad-m/github-push-action` が常に `master` へ push しようとして
+`! [rejected] HEAD -> master` で必ず失敗していた。
+
+## MP3 のチャプター付け
+
+`chapters/add-chapters.sh` (既定で最新1件、`--all` で全件)。音声の場所は `AUDIO_DIR`、
+既定はリポジトリと同じ階層の `finished_audio`。詳細は `chapters/README.md`。
+
+`add-chapters.py` は `episodes.yml` と `cover_art.jpg` を**相対パスで開く**ので、
+直接呼ぶ場合は `chapters/` に `cd` してから。ラッパーはこれを吸収している。
+
+`episodes.yml` は Actions 生成物なので、新しい回を処理する前に master を pull すること。
+
 ## その他
 
 - URL 短縮 (Firebase Dynamic Links) はサービス終了に伴い `entrypoint.sh` で無効化済み
-- ワークフローは push 時に走るが、`.md` の変更が1つも無いと CHANGED_FILES 作成の行で失敗する
+- Docker イメージは `pandoc/latex:2.6` (Alpine 3.9、EOL 済み) のまま。今は動いているが、
+  Alpine のミラーが消えた時点で壊れる。その際は runner に pandoc を直接入れる形へ移行する。
+  その場合も **`--wrap=none` を必ず付ける**こと (付けないと既存の出力と数十文字ずれる)

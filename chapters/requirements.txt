@@ -1,2 +1,4 @@
 mutagen==1.44.0
-PyYAML==5.4
+# PyYAML 5.4 は Cython 3 系でビルドが通らず、新しめの Python では install できない
+# (Python 3.11 で "Getting requirements to build wheel did not run successfully")
+PyYAML>=6.0
